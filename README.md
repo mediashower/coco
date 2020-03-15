@@ -1,6 +1,2 @@
-# coco
-COVID-19 Communication Briefs
+# Initial page
 
-Hello world!
-
-We're coming to save you!
