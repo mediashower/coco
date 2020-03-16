@@ -3,9 +3,23 @@
 * [CoCo: COVID-19 Communication Briefs](README.md)
 * [CoCo Principles](untitled.md)
 
+## Health
+
+* [Slow the Spread](health/slow-the-spread.md)
+* [Facts About COVID-19](health/facts-about-covid-19.md)
+* [Support Healthcare Workers](health/support-healthcare-workers.md)
+
 ## Business
 
 * [Working From Home](business/working-from-home.md)
+* [Business As Usual](business/business-as-usual.md)
+* [Communicating With Teams](business/communicating-with-teams.md)
+
+## Home
+
+* [Staying Sane](home/staying-sane.md)
+* [Managing the Family](home/managing-the-family.md)
+* [Educational Resources](home/educational-resources.md)
 
 ## Resources
 
