@@ -12,20 +12,6 @@ _Strive for a one-sentence message that is clear, actionable, and inspiring._
 While working from home, there are "hacks" you can use to keep yourself productive, which is important in the fight against COVID-19.
 {% endhint %}
 
-## Target URL:
-
-_Where do we want people to go? Please use high-authority websites \(WHO.int, CDC.gov, etc.\)._
-
-{% page-ref page="working-from-home.md" %}
-
-## Why This is Important:
-
-_In one sentence, explain why this message matters to our strategy._
-
-{% hint style="success" %}
-Staying productive is important for the world economy, for our businesses, and for our self-esteem.
-{% endhint %}
-
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
@@ -39,6 +25,20 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 * Consider standing one-on-one videoconferences with each team member as well.
 * As best you can, continue "business as usual." 
 * Consider donating 10-20% of your time to how your business can help others in this time.
+
+## Target URL:
+
+_Where do we want people to go? Please use high-authority websites \(WHO.int, CDC.gov, etc.\)._
+
+{% page-ref page="working-from-home.md" %}
+
+## Target Audience:
+
+_Who we are trying to reach with this message._
+
+{% hint style="success" %}
+Anyone working from home, especially those who have never worked from home before.
+{% endhint %}
 
 ## Hashtags:
 
@@ -58,7 +58,15 @@ _Fully-licensed images that can be used in content and memes. Images must be roy
 
 ![https://www.bigstockphoto.com/image-344724586/stock-vector-cute-woman-sitting-on-chair-with-laptop-in-cozy-scandinavian-home-interior-girl-working-at-home-in](.gitbook/assets/bigstock-cute-woman-sitting-on-chair-wi-344724586.jpg)
 
+## Why This is Important:
+
+_In one sentence, explain why this message matters to our strategy._
+
+{% hint style="success" %}
+Staying productive is important for the world economy, for our businesses, and for our self-esteem.
+{% endhint %}
+
 ## Additional Notes:
 
-_Message dates, message regions, etc._
+_To be communicated ASAP and ongoing. Better photos would be appreciated, especially funny photos or memes._
 
