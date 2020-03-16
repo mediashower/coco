@@ -14,7 +14,7 @@ Primary message here
 
 ## Target URL:
 
-_Where do we want people to go? Plesae use high-authority websites \(WHO.int, CDC.gov, etc.\)._
+_Where do we want people to go? Please use high-authority websites \(WHO.int, CDC.gov, etc.\)._
 
 {% page-ref page="coco-brief-template.md" %}
 
