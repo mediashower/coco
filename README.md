@@ -4,14 +4,16 @@ description: Information is the antivirus.
 
 # An Intro to CoCo
 
-During the COVID-19 \(Coronavirus\) outbreak, one thing we can all do to help is **communicate well**.
+During the COVID-19 outbreak, one thing we can all do is **communicate well about Coronavirus**.
+
+Coronavirus + Communication = CoCo.
 
 We've created the CoCo Briefs to empower **anyone with an audience** to spread positive, helpful, truth-based information -- through blogs, videos, social media, and email blasts.
 
 {% hint style="success" %}
 ### **Everyone Can Help**
 
-We need to get these messages to everyone, in the places they consume media, in the way people communicate today. This is the way we band together as humans to defeat the virus.
+We need to get these messages to everyone, in the places they consume media, in the way people communicate today. This is how we band together as humans to defeat the virus.
 
 We all have an audience, and we all have a voice. Your voice is stronger than you think.
 {% endhint %}
