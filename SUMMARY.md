@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CoCo: COVID-19 Communication Briefs](README.md)
+* [An Intro to CoCo](README.md)
 * [CoCo Principles](untitled.md)
 
 ## Health
