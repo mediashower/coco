@@ -25,12 +25,12 @@ In this "decentralized media" approach, we all become our own mini-broadcasting 
 {% hint style="warning" %}
 ### **How This Works**
 
-Each CoCo Brief has a **primary message**, 5-10 **messaging points** that you can use in your blogs and social media, and various **images and memes** that can help these ideas spread. 
+Each CoCo Brief has a **primary message**, 5-10 **messaging points** that you can use in your blogs and social media, and various **images and memes** to help these ideas spread. 
 
 Your mission: help these messages spread faster than the virus.
 {% endhint %}
 
-Everything here is **free to share**. We encourage you to translate it into your local languages, make it accessible to everyone \(especially those in need\), and find fun and creative ways to make it go viral.
+Everything here is **free to share**. We encourage you to translate it into your local languages, make it accessible to everyone \(especially those in need\), and find fun and creative ways to pass it on.
 
 Everything here is also a **work in progress**. We ask for contributions and improvements, which you can make using a [GitHub pull request](https://github.com/mediashower/coco) or emailing us at info@mediashower.com.
 
