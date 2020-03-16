@@ -44,7 +44,7 @@ Bitching and complaining are two great enemies: destroy them by refusing to enga
 
 We're going to be called on to do the difficult, and sometimes impossible. A helpful attitude you can take is, "We'll figure this out together."
 
-Look for unusual ways to solve problems. If your solution doesn't work, share your findings with others. If it does, teach your "best practices" to others, and try to continually improve on them.
+Look for unusual ways to solve problems. Do the best you can with what you have. Share your results -- both your failures and your successes -- with others. Knowledge is also a virus, and that's how it spreads.
 
 ## Good Information is the Best Antivirus.
 
