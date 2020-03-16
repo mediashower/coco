@@ -2,6 +2,7 @@
 
 * [An Intro to CoCo](README.md)
 * [CoCo Principles](untitled.md)
+* [How to Help](how-to-help.md)
 
 ## Health
 
