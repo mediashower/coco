@@ -10,7 +10,9 @@ We've created the CoCo Briefs to empower everyone to spread positive, helpful, t
 
 In this "decentralized media" approach, we all become our own mini-broadcasting outlet, spreading these positive messages to counter fear and ignorance about COVID-19.
 
-Everything here is free of charge and free of copyright. We encourage you to translate it into your local languages, make it accessible to everyone \(especially those in need\), and find fun and creative ways to make it go viral.
+Everything here is **free to share**. We encourage you to translate it into your local languages, make it accessible to everyone \(especially those in need\), and find fun and creative ways to make it go viral.
+
+Everything here is also a **work in progress**. We ask for contributions and improvements, which you can make using a [GitHub pull request](https://github.com/mediashower/coco) or emailing us at info@mediashower.com.
 
 COVID-19 is the virus. Information is the antivirus.
 

@@ -45,7 +45,7 @@ Hashtags here
 
 _Fully-licensed images that can be used in content and memes. Images must be royalty-free; please link to source._
 
-![](.gitbook/assets/memes.PNG)
+![](../.gitbook/assets/memes.PNG)
 
 ## Why This is Important:
 

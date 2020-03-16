@@ -52,11 +52,11 @@ _Strive for hashtags that are memorable, unique, and clever._
 
 _Fully-licensed images that can be used in content and memes. Images must be royalty-free; please link to source._
 
-![https://www.bigstockphoto.com/image-203551900/stock-photo-family-business-telecommute-businesswoman-and-mother-with-kid-is-making-a-phone-call-at-the-workplace%2C-together-with-a-small-child](.gitbook/assets/bigstock--203551900.jpg)
+![https://www.bigstockphoto.com/image-203551900/stock-photo-family-business-telecommute-businesswoman-and-mother-with-kid-is-making-a-phone-call-at-the-workplace%2C-together-with-a-small-child](../.gitbook/assets/bigstock--203551900.jpg)
 
-![https://www.bigstockphoto.com/image-207258985/stock-photo-one-aged-woman-holds-mobile-phone-with-virtual-doctor-attentively-reviewing-her-brain-x-ray-results-patient-contacts-expert-via-cellphone-with-telemedicine-application](.gitbook/assets/bigstock--207258985.jpg)
+![https://www.bigstockphoto.com/image-207258985/stock-photo-one-aged-woman-holds-mobile-phone-with-virtual-doctor-attentively-reviewing-her-brain-x-ray-results-patient-contacts-expert-via-cellphone-with-telemedicine-application](../.gitbook/assets/bigstock--207258985.jpg)
 
-![https://www.bigstockphoto.com/image-344724586/stock-vector-cute-woman-sitting-on-chair-with-laptop-in-cozy-scandinavian-home-interior-girl-working-at-home-in](.gitbook/assets/bigstock-cute-woman-sitting-on-chair-wi-344724586.jpg)
+![https://www.bigstockphoto.com/image-344724586/stock-vector-cute-woman-sitting-on-chair-with-laptop-in-cozy-scandinavian-home-interior-girl-working-at-home-in](../.gitbook/assets/bigstock-cute-woman-sitting-on-chair-wi-344724586.jpg)
 
 ## Why This is Important:
 
