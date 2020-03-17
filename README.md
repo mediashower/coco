@@ -1,5 +1,5 @@
 ---
-description: Information is the antivirus.
+description: Sharing is the antivirus.
 ---
 
 # An Intro to CoCo
