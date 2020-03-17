@@ -18,7 +18,7 @@
 
 ## Home
 
-* [Staying Sane](home/staying-sane.md)
+* [Staying Positive](home/staying-positive.md)
 * [Managing the Family](home/managing-the-family.md)
 * [Educational Resources](home/educational-resources.md)
 
