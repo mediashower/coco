@@ -8,7 +8,7 @@
 
 * [Slow the Spread](health/slow-the-spread.md)
 * [Facts About COVID-19](health/facts-about-covid-19.md)
-* [Support Healthcare Workers](health/support-healthcare-workers.md)
+* [Support Healthcare Heroes](health/support-healthcare-workers.md)
 
 ## Business
 
