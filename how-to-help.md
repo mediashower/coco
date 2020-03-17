@@ -4,7 +4,7 @@ description: 'How you can spread the message, faster than the virus.'
 
 # How to Help
 
-The primary way you can help is by spreading the messages in each of our CoCo briefs, listed at left. Share them across blogs, social media, video, email blasts. Get creative. Surprise us.
+The primary way you can help is by **spreading the messages** in each of our CoCo briefs, listed at left. Share them across blogs, social media, video. Get creative. Surprise us. [SAVE FERRIS](https://www.google.com/search?q=save+ferris+bueller).
 
 We are also looking for volunteers with specific skill sets:
 
