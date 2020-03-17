@@ -14,7 +14,7 @@ We are also looking for volunteers with specific skill sets:
 
 **3\) Meme creators:** Memes are tricky to get right, so we need people who both understand the medium and can stay on message. Gifted **meme curators** are also welcome.
 
-**4\) Smart researchers:** We need help curating **best practices** with how people are communicating with businesses, communities, churches, schools, and governments. You need writing and GitHub.
+**4\) Graphic designers:** We need help curating **branded images and graphics** \(think [Hope](https://en.wikipedia.org/wiki/Barack_Obama_%22Hope%22_poster), [We Can Do It](https://en.wikipedia.org/wiki/We_Can_Do_It!), [Keep Calm](https://en.wikipedia.org/wiki/Keep_Calm_and_Carry_On), etc.\). You will literally be designing the images that will shape history.
 
-**5\) Funding:** We are a small team of volunteers, doing this as we can. We welcome government, institutional, or corporate grants, which will greatly amplify this global communication effort.
+**5\) Funding:** We are a small team of volunteers, doing the best we can. We welcome government, institutional, or corporate grants, which will greatly amplify this global communication effort.
 
