@@ -14,10 +14,10 @@ We are trying to SLOW THE SPREAD of Coronavirus, to ease the burden on healthcar
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* We are trying to SLOW THE SPREAD of \#Coronavirus to help our Healthcare Heroes. \#DoTheFive!
-* When you \#DoTheFive, you don't just protect yourself, you protect others. This SLOWS THE SPREAD of \#Covid19 and helps our Healthcare Heroes.
+* We are trying to SLOW THE SPREAD of \#Coronavirus to help our Healthcare Heroes. \#DoTheFive! \#coco
+* When you \#DoTheFive, you don't just protect yourself, you protect others. This SLOWS THE SPREAD of \#Covid19 and helps our Healthcare Heroes. \#coco
 * 1\) HANDS Wash them often. 2\) ELBOW Cough into it. 3\) FACE Don't touch it. 4\) FEET Stay more than 3ft apart. 5\) FEEL sick? Stay home. \#SlowTheSpread of \#Coronavirus! 
-* When you \#DoTheFive, it's like tripping the \#Coronavirus when it's trying to run a relay race. \#SlowTheSpread!
+* When you \#DoTheFive, it's like tripping the \#Coronavirus when it's doing the FitnessGram Pacer Test. \#SlowTheSpread!
 * Outgunned. Outmanned. Outnumbered, outplanned. We gotta make an all-out stand. And yo I'm gonna need to wash your hands. \#SLOWTHESPREAD of \#Coronavirus ft. \#Hamilton and @Lin\_Manuel
 
 ## Target URL:
