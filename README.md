@@ -30,7 +30,7 @@ Each CoCo Brief has a **primary message**, 5-10 **messaging points** that you ca
 Your mission: help these messages spread faster than the virus.
 {% endhint %}
 
-Everything here is **free to share**. We encourage you to translate it into your local languages, make it accessible to everyone \(especially those in need\), and find fun and creative ways to pass it on.
+Everything here is [**free to share**](https://creativecommons.org/share-your-work/public-domain/cc0/). We encourage you to translate it into your local languages, make it accessible to everyone \(especially those in need\), and find fun and creative ways to pass it on.
 
 Everything here is also a **work in progress**. We ask for contributions and improvements, which you can make using a [GitHub pull request](https://github.com/mediashower/coco) or emailing us at info@mediashower.com.
 
@@ -38,9 +38,5 @@ COVID-19 is the virus. Information is the antivirus.
 
 
 
-
-
-
-
-
+_All content on this website is offered under a_ [_CC0 license_](https://creativecommons.org/share-your-work/public-domain/cc0/) _by a team of volunteers. No rights reserved._
 
