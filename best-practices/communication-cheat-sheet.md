@@ -10,7 +10,7 @@ Fortunately, many smart people have spent many years putting together best pract
 
 Think of this as your **communication playbook**. We also have dedicated pages for those of you in [business](best-practices-for-business.md), [education](best-practices-for-education.md), [healthcare](best-practices-for-healthcare.md), [government](best-practices-for-government.md), and [faith-based organizations](best-practices-for-churches.md).
 
-* **Be consistent**: During times of pandemic, message work best when they are consistent and coherent.
+* **Be consistent**: During times of pandemic, messages work best when they are consistent and coherent. 
 * **Go public quickly**: Even if you have incomplete information. Adjust as things change. Be agile.
 * **Don’t wait for the press release.** Try to get it out as soon as you can, as best you can.
 * **Be honest**: Say what you know, what you don’t know, and what you’re doing. 
