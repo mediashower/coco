@@ -4,11 +4,11 @@ description: Best practices on communicating during a pandemic.
 
 # Communication Cheat Sheet
 
-This isn't the first time humanity has faced a pandemic.
+This isn't the first time humans have faced a pandemic.
 
-Fortunately, many smart people have spent the past few decades putting together best practices on how to communicate to the public. We've pulled together their recommendations into these **quick tips** that you can share with your team.
+Fortunately, many smart people have spent many years putting together best practices on how to communicate to the public. We've pulled together their recommendations into these **quick tips** that you can share with your team. 
 
-We also have dedicated pages for those of you in [business](best-practices-for-business.md), [education](best-practices-for-education.md), [healthcare](best-practices-for-healthcare.md), [government](best-practices-for-government.md), and [faith-based organizations](best-practices-for-churches.md).
+Think of this as your **communication playbook**. We also have dedicated pages for those of you in [business](best-practices-for-business.md), [education](best-practices-for-education.md), [healthcare](best-practices-for-healthcare.md), [government](best-practices-for-government.md), and [faith-based organizations](best-practices-for-churches.md).
 
 * **Be consistent**: During times of pandemic, message work best when they are consistent and coherent.
 * **Go public quickly**: Even if you have incomplete information. Adjust as things change. Be agile.
