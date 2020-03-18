@@ -18,9 +18,7 @@ Think of this as your **communication playbook**. We also have dedicated pages f
 * **Be clear**. Eliminate jargon. Use plain, simple language. Be accessible to a non-technical audience.
 * **Be calm.** Resist the urge to say "Don't panic" or "Stay calm." Instead, BE reassuring and BE calm.
 * **Be flexible**: Explain that the information may change when you know more.
-
-  **Be careful.** Avoid being confident with tenuous information. 
-
+* **Be careful.** Avoid being confident with tenuous information. 
 * **Speak to the fear**: Recognize that people will be frightened. Put these fears into words, then address them openly, regardless of how unfounded or unscientific the fears may seem.
 * **LISTEN:** Talk with your target audience. Talk with their key opinion leaders about what they're hearing in the community. Keep your ear to the ground and your finger on the pulse. 
 * **Keep talking**. Then communicate, again and again. Promise timely, regular   updates. Then deliver.
