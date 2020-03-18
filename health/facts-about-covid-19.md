@@ -1,8 +1,8 @@
 ---
-description: 'Quick, memorable takeaways that educate (and maybe even entertain).'
+description: 'There is only one enemy: Coronavirus. Only by working together will we win.'
 ---
 
-# Facts About COVID-19
+# Humans vs. Virus
 
 _This article is a stub. Please issue a_ [_GitHub pull request_](https://github.com/mediashower/coco) _if you would like to work on it, using the CoCo Brief Template below._
 
