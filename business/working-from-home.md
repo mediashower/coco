@@ -1,5 +1,5 @@
 ---
-description: Best Practices for Employees
+description: 'Keeping remote workers engaged, productive, and happy.'
 ---
 
 # Working From Home
