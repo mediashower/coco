@@ -38,9 +38,9 @@ Each CoCo Brief \(at left\) has a **primary message** with talking points, image
 
 We have a **once-in-a-lifetime opportunity** to save humanity and rebuild the world in a better way.
 
-Spread the word. Not the virus. Do a \#CoCo.
+### Spread the word. Not the virus. Do a \#CoCo.
 
 
 
-_All content on this website is offered under an open-source_ [_CC0 license_](https://creativecommons.org/share-your-work/public-domain/cc0/) _by a team of volunteers who are working together to save the world. Literally._
+_All content on this website is offered under an open-source_ [_CC0 license_](https://creativecommons.org/share-your-work/public-domain/cc0/) _by a team of volunteers who are working together to save the world._ 
 
