@@ -6,35 +6,37 @@ description: Information is the antivirus.
 
 During the COVID-19 pandemic, one thing we can all do is **communicate well about Coronavirus**.
 
-**Co**ronavirus + **Co**mmunication = CoCo.
+![Coronavirus + Communication = CoCo.](.gitbook/assets/coco-logo-wide.png)
 
-We've created the CoCo Briefs to empower **anyone with an audience** to spread positive, helpful, truth-based information -- through blogs, videos, social media, and email blasts.
+CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you’re free to use, remix, and share. Get creative!
+
+We've created CoCo to empower **anyone with an audience** to spread positive, helpful, truth-based information -- through blogs, videos, social media, and email blasts.
 
 {% hint style="success" %}
-## **Everyone Can Help**
+## **Start sharing now:**
 
-We need to get these messages to everyone, in the places they consume media, in the way people communicate today. This is how we band together as humans to defeat the virus.
+`By spreading helpful, truthful messages about #COVID19, we can #SlowTheSpread and speed the #GreatRecovery. This is how we band together as humans to defeat the #Coronavirus.`
 
-We all have an audience, and we all have a voice. Your voice is stronger than you think.
+`We all have an audience, and we all have a voice. Your voice is stronger than you think. #coco`
 {% endhint %}
 
-In this "decentralized media" approach, we all become our own mini-broadcasting outlet, spreading these positive messages to counter fear and ignorance about COVID-19.
+CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you're free to use, remix, translate and share. Get creative!
 
-![You can help these messages spread faster than the virus.](.gitbook/assets/coco-logo.png)
+![If we work together, we will win.](.gitbook/assets/game-over.PNG)
 
 {% hint style="warning" %}
-## **How This Works**
+## **How You Can Help \(Right Now\)**
 
-Each CoCo Brief has a **primary message**, 5-10 **messaging points** that you can use in your blogs and social media, and various **images and memes** to help these ideas spread.
+Each CoCo Brief \(at left\) has a **primary message** with talking points, images and memes to help these ideas spread. Put them in your blogs, images, and social media feeds. Or just tell a friend.
 
-Your mission: help these messages spread faster than the virus.
+**Your mission**: help these messages spread faster than the virus.
 {% endhint %}
 
-Everything here is [**free to share**](https://creativecommons.org/share-your-work/public-domain/cc0/). We encourage you to translate it into your local languages, make it accessible to everyone \(especially those in need\), and find fun and creative ways to pass it on.
+We have a **once-in-a-lifetime opportunity** to save humanity and rebuild the world in a better way.
 
-Everything here is also a **work in progress**. We ask for contributions and improvements, which you can make using a [GitHub pull request](https://github.com/mediashower/coco) or emailing us at info@mediashower.com.
+So spread the word. Not the virus. Do a \#CoCo.
 
-COVID-19 is the virus. Information is the antivirus.
 
-_All content on this website is offered under a_ [_CC0 license_](https://creativecommons.org/share-your-work/public-domain/cc0/) _by a team of volunteers. No rights reserved._
+
+_All content on this website is offered under an open-source_ [_CC0 license_](https://creativecommons.org/share-your-work/public-domain/cc0/) _by a team of volunteers who are working together to save the world. Literally._
 
