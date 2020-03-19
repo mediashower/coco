@@ -10,7 +10,7 @@ During the COVID-19 pandemic, one thing we can all do is **communicate well abou
 
 CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you’re free to use, remix, and share. Get creative!
 
-We've created CoCo to empower **anyone with an audience** to spread positive, helpful, truth-based information -- through blogs, videos, social media, and email blasts.
+We've created CoCo to empower **anyone with an audience** to spread helpful, truthful information -- through blogs, videos, social media, and email blasts.
 
 {% hint style="success" %}
 ## **Start sharing now:**
