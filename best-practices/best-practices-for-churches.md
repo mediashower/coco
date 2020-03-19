@@ -10,22 +10,25 @@ description: >-
 
 * Best Practice 1
 * Best Practice 2
+* Best Practice 3
 
-## Communicating about Remote Work
+## Communicating about Event and Services Cancellations
 
+* Best Practice 4
+* Best Practice 5
+* Best Practice 6
 
+## Communicating to Members
 
-## Communicating to Customers
-
-
-
-## Communicating about Disaster and Continuity Planning
-
-
+* Best Practice 7
+* Best Practice 8
+* Best Practice 9
 
 ## Communicating about Helping Your Community	
 
-
+* Best Practice 10
+* Best Practice 11
+* Best Practice 12
 
 ## Trusted Resources
 
