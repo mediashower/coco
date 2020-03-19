@@ -18,6 +18,8 @@ We've created CoCo to empower **anyone with an audience** to spread positive, he
 `By spreading helpful, truthful messages about #COVID19, we can #SlowTheSpread and speed the #GreatRecovery. This is how we band together as humans to defeat the #Coronavirus.`
 
 `We all have an audience, and we all have a voice. Your voice is stronger than you think. #coco`
+
+`Do something kind today for someone else. #CoCo`
 {% endhint %}
 
 CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you're free to use, remix, translate and share. Get creative!
@@ -25,9 +27,9 @@ CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes t
 ![If we work together, we will win.](.gitbook/assets/game-over.PNG)
 
 {% hint style="warning" %}
-## **How You Can Help \(Right Now\)**
+## **How you can help \(right now\)**
 
-Each CoCo Brief \(at left\) has a **primary message** with talking points, images and memes to help these ideas spread. Put them in your blogs, images, and social media feeds. Or just tell a friend.
+Each CoCo Brief \(at left\) has a **primary message** with talking points, images and memes to help these ideas spread. Put them in your blogs, images, and social media feeds. Or just tell a friend. 
 
 **Your mission**: help these messages spread faster than the virus.
 {% endhint %}
