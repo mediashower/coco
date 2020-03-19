@@ -23,7 +23,7 @@ In this "decentralized media" approach, we all become our own mini-broadcasting 
 ![You can help these messages spread faster than the virus.](.gitbook/assets/coco-logo.png)
 
 {% hint style="warning" %}
-### **How This Works**
+### **How This Works** 
 
 Each CoCo Brief has a **primary message**, 5-10 **messaging points** that you can use in your blogs and social media, and various **images and memes** to help these ideas spread. 
 
