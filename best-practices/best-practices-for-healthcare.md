@@ -6,7 +6,37 @@ description: >-
 
 # Best Practices for Healthcare
 
-_This article is a stub. Please issue a_ [_GitHub pull request_](https://github.com/mediashower/coco) _if you would like to work on it, using the CoCo Brief Template below._
+## Communicating about Health & Safety \(to Employees\)
 
-{% page-ref page="../resources/coco-brief-template.md" %}
+* Best Practice 1
+* Best Practice 2
+* Best Practice 3
+
+## Communicating about Health & Safety \(to Patients\)
+
+* Best Practice 4
+* Best Practice 5
+* Best Practice 6
+
+## Communicating Operational Changes to Patients 
+
+* Best Practice 7
+* Best Practice 8
+* Best Practice 9
+
+## Communicating about Disaster and Continuity Planning 
+
+* Best Practice 10
+* Best Practice 11
+* Best Practice 12
+
+## Communicating about Helping Your Community 
+
+* Best Practice 13
+* Best Practice 14
+* Best Practice 15
+
+## Trusted Resources
+
+
 
