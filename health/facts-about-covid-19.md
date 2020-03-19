@@ -1,5 +1,5 @@
 ---
-description: 'There is only one enemy: Coronavirus. Only by working together will we win.'
+description: 'There is only one enemy: Coronavirus. If we work together, we will win.'
 ---
 
 # Humans vs. Virus
