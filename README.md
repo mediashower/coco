@@ -19,12 +19,14 @@ We've created CoCo to empower **anyone with an audience** to spread helpful, tru
 
 `We all have an audience, and we all have a voice. Your voice is stronger than you think. #coco`
 
-`Do something kind today for someone else. #CoCo`
+`Do something kind today for someone else. Do a #CoCo`
 {% endhint %}
 
 CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you're free to use, remix, translate and share. Get creative!
 
 ![If we work together, we will win.](.gitbook/assets/game-over.PNG)
+
+Only by working together will we be able to defeat COVID-19. This is literally your chance to save the world.
 
 {% hint style="warning" %}
 ## **How you can help \(right now\)**
@@ -36,7 +38,7 @@ Each CoCo Brief \(at left\) has a **primary message** with talking points, image
 
 We have a **once-in-a-lifetime opportunity** to save humanity and rebuild the world in a better way.
 
-So spread the word. Not the virus. Do a \#CoCo.
+Spread the word. Not the virus. Do a \#CoCo.
 
 
 
