@@ -7,7 +7,7 @@
 ## Health
 
 * [Slow the Spread](health/slow-the-spread.md)
-* [Humans vs. Virus](health/facts-about-covid-19.md)
+* [Humans vs. Virus](health/humans-vs-virus.md)
 * [Support Healthcare Heroes](health/support-healthcare-workers.md)
 
 ## Business
