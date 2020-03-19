@@ -2,60 +2,55 @@
 description: 'There is only one enemy: Coronavirus. If we work together, we will win.'
 ---
 
+# Humans vs. Virus
+
 ## Primary Message:
 
-_Strive for a one-sentence message that is clear, actionable, and inspiring._
-
 {% hint style="success" %}
-Primary message here
+There is only one enemy: \#Coronavirus. If we work together, we will win. \#humans20covid19 \#coco
+{% endhint %}
+
+## Why This is Important:
+
+{% hint style="warning" %}
+Arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. 
 {% endhint %}
 
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* _Points should be 140 characters or less_
-* _Many people will copy and paste them_
+* Great teams do great things. Humanity is one great team.
+* STAY FOCUSED: The enemy is \#COVID19, not each other.
+* \#Coronavirus wants humans to fight, so it can win. Don't give in.
+* To defeat \#Coronavirus, we have to think like a virus. That means working together, as one human species.
+* Stick together and save the world. If we work together, we will win. \#coco
 
-## Target URL:
+## Link:
 
-_Where do we want people to go? Please use high-authority websites \(WHO.int, CDC.gov, etc.\)._
-
-{% page-ref page="coco-brief-template.md" %}
-
-## Target Audience:
-
-_Who we are trying to reach with this message._
-
-{% hint style="success" %}
-Primary reason here
-{% endhint %}
+{% page-ref page="humans-vs-virus.md" %}
 
 ## Hashtags:
 
-_Strive for hashtags that are memorable, unique, and clever._
-
 {% hint style="success" %}
-Hashtags here
+\#humans20covid19, \#coronavirus, \#coco
 {% endhint %}
 
 ## Supporting Visuals:
 
-_Fully-licensed images that can be used in content and memes. Images must be royalty-free; please link to source._
+![](../.gitbook/assets/humans-fight-pandemic.PNG)
 
-![](../.gitbook/assets/memes.PNG)
+![](../.gitbook/assets/humans-work-together.PNG)
 
-## Why This is Important:
-
-_In one sentence, explain why this message matters to the CoCo strategy._
+![](../.gitbook/assets/humans-future-of-earth.PNG)
 
 {% hint style="success" %}
-Primary reason here
+Arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. 
 {% endhint %}
 
 ## Additional Notes:
 
-_Message dates, message regions, etc._
-
-
+* To be deployed in all global regions ASAP. 
+* Need translators to communicate this message locally. 
+* Be wary of "arguing about not arguing."
 
