@@ -4,7 +4,7 @@ description: Information is the antivirus.
 
 # An Intro to CoCo
 
-During the COVID-19 outbreak, one thing we can all do is **communicate well about Coronavirus**.
+During the COVID-19 pandemic, one thing we can all do is **communicate well about Coronavirus**.
 
 Coronavirus + Communication = CoCo.
 
