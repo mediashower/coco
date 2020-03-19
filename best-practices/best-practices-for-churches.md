@@ -6,7 +6,28 @@ description: >-
 
 # Best Practices for Churches
 
-_This article is a stub. Please issue a_ [_GitHub pull request_](https://github.com/mediashower/coco) _if you would like to work on it, using the CoCo Brief Template below._
+## Communicating about Health & Safety 
 
-{% page-ref page="../resources/coco-brief-template.md" %}
+* Best Practice 1
+* Best Practice 2
+
+## Communicating about Remote Work
+
+
+
+## Communicating to Customers
+
+
+
+## Communicating about Disaster and Continuity Planning
+
+
+
+## Communicating about Helping Your Community	
+
+
+
+## Trusted Resources
+
+
 
