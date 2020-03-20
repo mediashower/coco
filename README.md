@@ -8,8 +8,6 @@ During the COVID-19 pandemic, one thing we can all do is **communicate well abou
 
 ![Coronavirus + Communication = CoCo.](.gitbook/assets/coco-logo-wide.png)
 
-CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you’re free to use, remix, and share. Get creative!
-
 We've created CoCo to empower **anyone with an audience** to spread helpful, truthful information -- through blogs, videos, social media, and email blasts.
 
 {% hint style="success" %}
@@ -24,14 +22,14 @@ We've created CoCo to empower **anyone with an audience** to spread helpful, tru
 
 CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you're free to use, remix, translate and share. Get creative!
 
-![If we work together, we will win.](.gitbook/assets/game-over.PNG)
+{% embed url="https://youtu.be/570cBNov5g8" %}
 
-Only by working together will we be able to defeat COVID-19. This is literally your chance to save the world.
+Only by working together will we be able to defeat COVID-19. This is literally **your chance to save the world.**
 
 {% hint style="warning" %}
 ## **How you can help \(right now\)**
 
-Each CoCo Brief \(at left\) has a **primary message** with talking points, images and memes to help these ideas spread. Put them in your blogs, images, and social media feeds. Or just tell a friend. 
+Each CoCo Brief \(at left\) has a **primary message** with talking points, images and memes to help these ideas spread. Put them in your blogs and social media feeds ... or just tell a friend. 
 
 **Your mission**: help these messages spread faster than the virus.
 {% endhint %}
