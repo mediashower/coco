@@ -6,6 +6,10 @@ description: >-
 
 # Best Practices for Churches
 
+{% embed url="https://youtu.be/YZ7pU53Y7aI" %}
+
+
+
 ## Communicating about Health & Safety 
 
 * Best Practice 1

@@ -26,7 +26,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 * _Points should be 140 characters or less_
 * _Many people will copy and paste them_
-* _Include hashtags (but keep them readable)_
+* _Include hashtags \(but keep them readable\)_
 
 ## Target URL:
 
@@ -51,3 +51,4 @@ _Fully-licensed images that can be used in content and memes._
 ## Additional Notes:
 
 _Message dates, message regions, improvements needed, etc._
+
