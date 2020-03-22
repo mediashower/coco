@@ -13,7 +13,7 @@ We are trying to SLOW THE SPREAD of \#Coronavirus, to ease the burden on our \#H
 ## Why This is Important:
 
 {% hint style="warning" %}
-Helping the public understand that we can't currently stop Coronavirus, but we can \#SlowTheSpread, easing the burden on healthcare systems by letting us treat more sick people more slowly. \[Source: [World Health Organization](https://www.who.int/csr/resources/publications/ebola/recovery-toolkit/en/)\]
+Helping the public understand that we can't currently stop Coronavirus, but we can \#SlowTheSpread, easing the burden on healthcare systems by letting us treat more sick people more slowly. \[Source: [WHO](https://www.who.int/csr/resources/publications/ebola/recovery-toolkit/en/)\]
 {% endhint %}
 
 ## Message Points:

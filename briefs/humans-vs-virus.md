@@ -13,7 +13,7 @@ There is only one enemy: \#Coronavirus. If we work together, we will win. \#huma
 ## Why This is Important:
 
 {% hint style="warning" %}
-Helping the public \(and politicians\) understand that arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
+Helping the public understand that arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. \[Source: [CDC](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
 {% endhint %}
 
 ## Message Points:
