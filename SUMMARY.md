@@ -12,7 +12,7 @@
 
 ## Business
 
-* [Working From Home](business/working-from-home.md)
+* [Stay Focused](business/stay-focused.md)
 * [Business As Usual](business/business-as-usual.md)
 * [Communicating With Teams](business/communicating-with-teams.md)
 

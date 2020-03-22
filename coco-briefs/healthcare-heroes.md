@@ -1,7 +1,7 @@
 ---
 description: >-
-  They're on the front lines of the fight against COVID-19. Here's how you can
-  help.
+  Healthcare workers are on the front lines of the fight against COVID-19. They
+  need our support.
 ---
 
 # Healthcare Heroes
