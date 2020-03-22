@@ -50,5 +50,7 @@ _Fully-licensed images that can be used in content and memes._
 
 ## Additional Notes:
 
-_Message dates, message regions, improvements needed, etc._
+* To be deployed in all global regions ASAP.
+* Need translators to communicate this message locally. 
+* _Any additional notes_
 
