@@ -7,49 +7,38 @@ description: 'When we do our part to slow the spread, we literally save lives.'
 ## Primary Message:
 
 {% hint style="success" %}
-We are trying to SLOW THE SPREAD of \#Coronavirus, to ease the burden on our \#HealthcareHeroes.
+Primary message here
 {% endhint %}
 
 ## Why This is Important:
 
 {% hint style="warning" %}
-Helping the public understand that we can't currently stop Coronavirus, but we can \#SlowTheSpread, easing the burden on healthcare systems by letting us treat more sick people more slowly. \[Source: [World Health Organization](https://www.who.int/csr/resources/publications/ebola/recovery-toolkit/en/)\]
+Primary reason here \[Source: \]
 {% endhint %}
 
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* We are trying to SLOW THE SPREAD of \#Coronavirus to help our Healthcare Heroes. 
-* When you \#DoTheFive, you don't just protect yourself, you protect others. This SLOWS THE SPREAD of \#Covid19 and helps our Healthcare Heroes. 
-* 1\) HANDS Wash them often. 2\) ELBOW Cough into it. 3\) FACE Don't touch it. 4\) FEET Stay more than 3ft apart. 5\) FEEL sick? Stay home. \#SlowTheSpread of \#Coronavirus! 
-* When you \#DoTheFive, it's like tripping the \#Coronavirus while it's running. \#SlowTheSpread!
-* Outgunned. Outmanned. Outnumbered, outplanned. We gotta make an all-out stand. And yo you're gonna need to wash your hands. \#SLOWTHESPREAD of \#Coronavirus ft. \#Hamilton and @Lin\_Manuel
+* Points
+* Points
+* Points
 
 ## Link Here:
 
-[https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
+{% page-ref page="keep-the-peace.md" %}
 
-## Use this Hashtag:
+## Hashtag:
 
 {% hint style="success" %}
-\#SlowTheSpread
+Hashtags here
 {% endhint %}
 
 ## Supporting Visuals:
 
-Video of health official accidentally licking her finger \(you can't unsee it\):
-
-{% embed url="https://pic.twitter.com/WvnKBwKUtb" %}
-
-![Our spirit animal. \#SlowTheSpread](../.gitbook/assets/emoji-snail.png)
-
-![](../.gitbook/assets/slow-the-spread-sloth.jpg)
-
-![](../.gitbook/assets/slowthespread-spock.png)
+* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:
 
 * To be deployed in all global regions ASAP.
-* Please help by translating this message into your local language.
-
+* Need translators to communicate this message locally. \[See [How to Help](../how-to-help.md)\]
