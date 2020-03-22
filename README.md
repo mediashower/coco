@@ -6,9 +6,11 @@ description: Information is the antivirus.
 
 During the COVID-19 pandemic, one thing we can all do is **communicate well about Coronavirus**.
 
-![Coronavirus + Communication = CoCo.](.gitbook/assets/coco-logo-wide.png)
+![Coronavirus + Communication = CoCo.](.gitbook/assets/coco-logo-wide%20%281%29.png)
 
-We've created CoCo to empower **anyone with an audience** to spread helpful, truthful information -- through blogs, videos, social media, and email blasts.
+CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you’re free to use, remix, and share. Get creative!
+
+We've created CoCo to empower **anyone with an audience** to spread helpful, truthful information -- through blogs, videos, and social media.
 
 {% hint style="success" %}
 ## **Start sharing now:**
@@ -20,7 +22,7 @@ We've created CoCo to empower **anyone with an audience** to spread helpful, tru
 `Do something kind today for someone else. Do a #CoCo`
 {% endhint %}
 
-CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you're free to use, remix, translate and share. Get creative!
+Good communication is how we work together as humans. We’re one human species. And if we work together, we will win.
 
 {% embed url="https://youtu.be/570cBNov5g8" %}
 
@@ -29,14 +31,14 @@ Only by working together will we be able to defeat COVID-19. This is literally *
 {% hint style="warning" %}
 ## **How you can help \(right now\)**
 
-Each CoCo Brief \(at left\) has a **primary message** with talking points, images and memes to help these ideas spread. Put them in your blogs and social media feeds ... or just tell a friend. 
+Each CoCo Brief \(at left\) has a **primary message** with talking points, tweets, and images to help these ideas spread. Put them in your blogs and social media feeds ... or just tell a friend. 
 
 **Your mission**: help these messages spread faster than the virus.
 {% endhint %}
 
 We have a **once-in-a-lifetime opportunity** to save humanity and rebuild the world in a better way.
 
-### Spread the word. Not the virus. Do a \#CoCo.
+### Spread the word. Not the germ. Do a \#CoCo.
 
 
 
