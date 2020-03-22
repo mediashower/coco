@@ -6,47 +6,42 @@ description: 'Try to keep things running normally, even when they''re not.'
 
 ## Primary Message:
 
-_Strive for a one-sentence message that is clear, actionable, and inspiring._
-
 {% hint style="success" %}
-Primary message here
+Do your best to keep \#BusinessAsUsual, though things are unusual.
 {% endhint %}
 
 ## Why This is Important:
 
-_In one sentence, explain why this message matters to the CoCo strategy._
-
 {% hint style="success" %}
-Primary reason here
+Helping the public understand that keeping things flowing \(work, money, information\) is how we can all help speed the \#GreatRecovery. \[Source: [Homeland Security Council](https://www.cdc.gov/flu/pandemic-resources/pdf/pandemic-influenza-strategy-2005.pdf)\]
 {% endhint %}
 
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* _Points should be 140 characters or less_
-* _Many people will copy and paste them_
-* _Include hashtags \(but keep them readable\)_
+* \#BusinessAsUsual even though things are unusual: do your best to keep things moving forward.
+* Stay focused, stay positive. Do your best to keep \#BusinessAsUsual.
+* Things will never again be the same, but we can all do our best to keep \#BusinessAsUsual.
+* BUSINESS AS USUAL: During the \#Coronacrisis, do your best to keep things sane even when you feel things are insane.
+* BUSINESS AS USUAL: Avoid saying "Don't Panic" or "Stay Calm." Instead, BE reassuring and BE calm.
 
-## Target URL:
+## Link Here:
 
-_Where do we want people to go? Please use high-authority websites \(WHO.int, CDC.gov, etc.\)._
+{% page-ref page="business-as-usual.md" %}
 
-## Hashtags:
-
-_Strive for hashtags that are memorable, unique, and clever._
+## Use this Hashtag:
 
 {% hint style="success" %}
-Hashtags here
+\#BusinessAsUsual
 {% endhint %}
 
 ## Supporting Visuals:
 
-_Fully-licensed images that can be used in content and memes._
+* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:
 
-* To be deployed in all global regions ASAP.
-* Need translators to communicate this message locally. 
-* _Any additional notes_
+* To be deployed in all global regions ASAP. 
+* Need translators to communicate this message locally. \[See [How to Help](../how-to-help.md)\]
 

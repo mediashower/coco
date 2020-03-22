@@ -51,6 +51,6 @@ Arguing and blaming each other wastes precious time and energy, which we must fo
 ## Additional Notes:
 
 * To be deployed in all global regions ASAP.
-* Please help by translating this message into your local language.
+* Please help by translating this message into your local language. \[See [How to Help](../how-to-help.md)\]
 * Be wary of falling into the trap of "arguing about not arguing."
 

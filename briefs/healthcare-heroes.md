@@ -41,12 +41,12 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ## Supporting Visuals:
 
-* _Please help by contributing inspiring images and memes._
+* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:
 
 * To be deployed in all global regions ASAP.
-* Please help by translating this message into your local language. 
+* Please help by translating this message into your local language. \[See [How to Help](../how-to-help.md)\]
 
 
 

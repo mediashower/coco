@@ -34,16 +34,14 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 * Avoid The Great Timewasters of alcohol, drugs, and porn -- or keep them for weekends.
 * Donate 10% of your time to helping others.
 
-## Target URL:
-
-_Where do we want people to go? Please use high-authority websites \(WHO.int, CDC.gov, etc.\)._
+## Link Here:
 
 {% page-ref page="stay-focused.md" %}
 
-## Hashtags:
+## Use These Hashtags:
 
 {% hint style="success" %}
-\#gsd, \#odat, \#stayfocused
+\#gsd, \#odat
 {% endhint %}
 
 ## Supporting Visuals:
@@ -53,5 +51,5 @@ _Where do we want people to go? Please use high-authority websites \(WHO.int, CD
 ## Additional Notes:
 
 * To be deployed in all global regions ASAP.
-* Please help by translating this message into your local language.
+* Please help by translating this message into your local language. \[See [How to Help](../how-to-help.md)\]
 
