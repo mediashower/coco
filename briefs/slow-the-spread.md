@@ -7,36 +7,44 @@ description: 'When we do our part to slow the spread, we literally save lives.'
 ## Primary Message:
 
 {% hint style="success" %}
-Primary message here
+We are trying to SLOW THE SPREAD of \#Coronavirus, to ease the burden on our \#HealthcareHeroes.
 {% endhint %}
 
 ## Why This is Important:
 
 {% hint style="warning" %}
-Primary reason here \[Source: \]
+ Helping the public understand that we can't currently stop Coronavirus, but we can \#SlowTheSpread, easing the burden on healthcare systems by letting us treat more sick people more slowly. \[Source: [World Health Organization](https://www.who.int/csr/resources/publications/ebola/recovery-toolkit/en/)\]
 {% endhint %}
 
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* Points
-* Points
-* Points
+* We are trying to SLOW THE SPREAD of \#Coronavirus to help our Healthcare Heroes treat more sick, more slowly. \#SlowTheSpread
+* When you \#DoTheFive, you don't just protect yourself, you protect others. This SLOWS THE SPREAD of \#Covid19 and helps our Healthcare Heroes.
+* 1\) HANDS Wash them often.  2\) ELBOW Cough into it.  3\) FACE Don't touch it.  4\) FEET Stay more than 3ft apart.  5\) FEEL sick? Stay home.  \#SlowTheSpread of \#Coronavirus!
+* \#SlowTheSpread and you slow the sickness. Help our \#HealthcareHeroes treat more sick, more slowly. 
+* Outgunned. Outmanned. Outnumbered, outplanned. We gotta make an all-out stand. And yo you're gonna need to wash your hands. \#SLOWTHESPREAD of \#Coronavirus ft. \#Hamilton and @Lin\_Manuel
 
 ## Link Here:
 
-{% page-ref page="keep-the-peace.md" %}
+[https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 
 ## Use this Hashtag:
 
 {% hint style="success" %}
-Hashtags here
+\#SlowTheSpread
 {% endhint %}
 
 ## Supporting Visuals:
 
-* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
+{% embed url="https://pic.twitter.com/WvnKBwKUtb" %}
+
+![](../.gitbook/assets/do-the-five.PNG)
+
+
+
+![](../.gitbook/assets/slow-the-spread-sloth%20%281%29.jpg)
 
 ## Additional Notes:
 
