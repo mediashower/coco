@@ -4,23 +4,17 @@
 * [CoCo Principles](coco-principles.md)
 * [How to Help](how-to-help.md)
 
-## Health
+## CoCo Briefs
 
-* [Slow the Spread](health/slow-the-spread.md)
-* [Humans vs. Virus](health/humans-vs-virus.md)
-* [Support Healthcare Heroes](health/support-healthcare-workers.md)
+* [Slow the Spread](coco-briefs/slow-the-spread.md)
+* [Humans vs. Virus](coco-briefs/humans-vs-virus.md)
+* [Healthcare Heroes](coco-briefs/healthcare-heroes.md)
 
 ## Business
 
 * [Working From Home](business/working-from-home.md)
 * [Business As Usual](business/business-as-usual.md)
 * [Communicating With Teams](business/communicating-with-teams.md)
-
-## Home
-
-* [Staying Positive](home/staying-positive.md)
-* [Managing the Family](home/managing-the-family.md)
-* [Educational Resources](home/educational-resources.md)
 
 ## Best Practices
 

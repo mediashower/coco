@@ -1,5 +1,5 @@
 ---
-description: 5 Healthy Habits to Slow Down Coronavirus
+description: 'When we do our part to slow the spread, we literally save lives.'
 ---
 
 # Slow the Spread
@@ -13,7 +13,7 @@ We are trying to SLOW THE SPREAD of \#Coronavirus, to ease the burden on our \#H
 ## Why This is Important:
 
 {% hint style="warning" %}
-Helping the public understand that we can't currently stop Coronavirus, but we can slow the spread.
+Helping the public understand that we can't currently stop Coronavirus, but we can slow the spread, easing the burden on the healthcare system and letting us treat more sick people.
 {% endhint %}
 
 ## Message Points:
