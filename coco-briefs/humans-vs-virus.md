@@ -13,7 +13,7 @@ There is only one enemy: \#Coronavirus. If we work together, we will win. \#huma
 ## Why This is Important:
 
 {% hint style="warning" %}
-Arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. 
+Helping the public \(and politicians\) understand that arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
 {% endhint %}
 
 ## Message Points:
@@ -52,5 +52,5 @@ Arguing and blaming each other wastes precious time and energy, which we must fo
 
 * To be deployed in all global regions ASAP. 
 * Need translators to communicate this message locally. 
-* Be wary of "arguing about not arguing."
+* Be wary of falling into the trap of "arguing about not arguing."
 

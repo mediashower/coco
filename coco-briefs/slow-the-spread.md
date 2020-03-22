@@ -50,5 +50,6 @@ Video of health official accidentally licking her finger \(you can't unsee it\):
 
 ## Additional Notes:
 
-To be deployed ASAP in all regions.
+* To be deployed in all global regions ASAP. 
+* Need translators to communicate this message locally. 
 
