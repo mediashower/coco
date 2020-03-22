@@ -24,9 +24,7 @@ Primary reason here
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* _Points should be 140 characters or less_
-* _Many people will copy and paste them_
-* _Include hashtags \(but keep them readable\)_
+* There is no going back. Let's make a \#NewNormal, with the best practices from the Old Normal.
 
 ## Target URL:
 

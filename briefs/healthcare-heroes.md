@@ -23,6 +23,7 @@ Helping the public understand the extreme burden on our healthcare system -- and
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
 * Our \#HealthcareHeroes are the first responders in the fight against \#Coronavirus. How can you help? \#coco
+* Our \#HealthcareHeroes are literally putting their lives on the line. Find a way to support them: equipment, food, or a phone call. \#coco
 * Everyone can support our Healthcare Heroes in some way: bring them food, watch a child, donate blood. What can YOU do? 
 * Healthcare Heroes are literally saving the world from \#Coronavirus. Doctors, nurses, admins, EMTs, insurance workers: THANK YOU!
 * HELP OUR HEALTHCARE HEROES. Find some small way to contribute to the healthcare effort today.
