@@ -13,7 +13,7 @@ There is only one enemy: \#Coronavirus. If we work together, we will win. \#huma
 ## Why This is Important:
 
 {% hint style="warning" %}
-Helping the public understand that arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. \[Source: [CDC](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
+Helping the public understand that arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
 {% endhint %}
 
 ## Message Points:
@@ -26,14 +26,14 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 * To defeat \#Coronavirus, we have to think like a virus. That means working together, as one human species.
 * Stick together and save the world. If we work together, we will win. \#coco
 
-## Link:
+## Link Here:
 
 {% page-ref page="humans-vs-virus.md" %}
 
-## Hashtags:
+## Use this Hashtag:
 
 {% hint style="success" %}
-\#humans20covid19, \#coronavirus, \#coco
+\#humans20covid19
 {% endhint %}
 
 ## Supporting Visuals:
@@ -50,7 +50,7 @@ Arguing and blaming each other wastes precious time and energy, which we must fo
 
 ## Additional Notes:
 
-* To be deployed in all global regions ASAP. 
-* Need translators to communicate this message locally. 
+* To be deployed in all global regions ASAP.
+* Please help by translating this message into your local language.
 * Be wary of falling into the trap of "arguing about not arguing."
 

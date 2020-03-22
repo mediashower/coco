@@ -13,7 +13,7 @@ We are trying to SLOW THE SPREAD of \#Coronavirus, to ease the burden on our \#H
 ## Why This is Important:
 
 {% hint style="warning" %}
-Helping the public understand that we can't currently stop Coronavirus, but we can \#SlowTheSpread, easing the burden on healthcare systems by letting us treat more sick people more slowly. \[Source: [WHO](https://www.who.int/csr/resources/publications/ebola/recovery-toolkit/en/)\]
+Helping the public understand that we can't currently stop Coronavirus, but we can \#SlowTheSpread, easing the burden on healthcare systems by letting us treat more sick people more slowly. \[Source: [World Health Organization](https://www.who.int/csr/resources/publications/ebola/recovery-toolkit/en/)\]
 {% endhint %}
 
 ## Message Points:
@@ -26,14 +26,14 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 * When you \#DoTheFive, it's like tripping the \#Coronavirus while it's running. \#SlowTheSpread!
 * Outgunned. Outmanned. Outnumbered, outplanned. We gotta make an all-out stand. And yo you're gonna need to wash your hands. \#SLOWTHESPREAD of \#Coronavirus ft. \#Hamilton and @Lin\_Manuel
 
-## Target URL:
+## Link Here:
 
 [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
 
-## Hashtags:
+## Use this Hashtag:
 
 {% hint style="success" %}
-\#SlowTheSpread, \#DoTheFive, \#coronavirus, \#coco
+\#SlowTheSpread
 {% endhint %}
 
 ## Supporting Visuals:
@@ -50,6 +50,6 @@ Video of health official accidentally licking her finger \(you can't unsee it\):
 
 ## Additional Notes:
 
-* To be deployed in all global regions ASAP. 
-* Need translators to communicate this message locally. 
+* To be deployed in all global regions ASAP.
+* Please help by translating this message into your local language.
 

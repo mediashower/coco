@@ -32,8 +32,6 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 _Where do we want people to go? Please use high-authority websites \(WHO.int, CDC.gov, etc.\)._
 
-{% page-ref page="coco-brief-template.md" %}
-
 ## Hashtags:
 
 _Strive for hashtags that are memorable, unique, and clever._
@@ -51,3 +49,4 @@ _Fully-licensed images that can be used in content and memes._
 * To be deployed in all global regions ASAP.
 * Need translators to communicate this message locally. 
 * _Any additional notes_
+

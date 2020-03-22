@@ -15,7 +15,7 @@ During the \#Coronacrisis, every day brings new drama and new distractions: just
 ## Why This is Important:
 
 {% hint style="warning" %}
-There is so much work to be done, in such a time of rapid change, that people can get overwhelmed. Cultivating a day-by-day approach keeps us nimble and productive.
+Helping the public understand that a day-to-day \#ODAT approach can help us get this work done without feeling overwhelmed. \[Source: [Homeland Security Council](https://www.cdc.gov/flu/pandemic-resources/pdf/pandemic-influenza-strategy-2005.pdf)\]
 {% endhint %}
 
 ## Message Points:
@@ -43,7 +43,7 @@ _Where do we want people to go? Please use high-authority websites \(WHO.int, CD
 ## Hashtags:
 
 {% hint style="success" %}
-\#gsd, \#stayfocused, \#coco, \#coronavirus
+\#gsd, \#odat, \#stayfocused
 {% endhint %}
 
 ## Supporting Visuals:
@@ -52,5 +52,6 @@ _Where do we want people to go? Please use high-authority websites \(WHO.int, CD
 
 ## Additional Notes:
 
-To be deployed in all regions ASAP.
+* To be deployed in all global regions ASAP.
+* Please help by translating this message into your local language.
 

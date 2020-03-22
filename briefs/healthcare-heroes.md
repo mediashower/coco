@@ -8,49 +8,44 @@ description: >-
 
 ## Primary Message:
 
-_Strive for a one-sentence message that is clear, actionable, and inspiring._
-
 {% hint style="success" %}
-Primary message here
+SUPPORT OUR HEALTHCARE HEROES, who are on the front lines of the \#Coronacrisis.
 {% endhint %}
 
 ## Why This is Important:
 
-_In one sentence, explain why this message matters to the CoCo strategy._
-
-{% hint style="success" %}
-Primary reason here
+{% hint style="warning" %}
+Helping the public understand the extreme burden on our healthcare system -- and our human healthcare workers -- inspiring them to find creative ways to help. \[Source: [World Health Organization](https://www.who.int/csr/resources/publications/ebola/recovery-toolkit/en/)\]
 {% endhint %}
 
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* _Points should be 140 characters or less_
-* _Many people will copy and paste them_
-* _Include hashtags \(but keep them readable\)_
+* Our \#HealthcareHeroes are the first responders in the fight against \#Coronavirus. How can you help? \#coco
+* Everyone can support our Healthcare Heroes in some way: bring them food, watch a child, donate blood. What can YOU do? 
+* Healthcare Heroes are literally saving the world from \#Coronavirus. Doctors, nurses, admins, EMTs, insurance workers: THANK YOU!
+* HELP OUR HEALTHCARE HEROES. Find some small way to contribute to the healthcare effort today.
+* Thank our \#HealthcareHeroes. Even better, help them. Find some way to Do a \#CoCo in the global healthcare effort.
 
-## Target URL:
+## Link Here:
 
-_Where do we want people to go? Please use high-authority websites \(WHO.int, CDC.gov, etc.\)._
+{% page-ref page="healthcare-heroes.md" %}
 
-{% page-ref page="coco-brief-template.md" %}
-
-## Hashtags:
-
-_Strive for hashtags that are memorable, unique, and clever._
+## Use This Hashtag:
 
 {% hint style="success" %}
-Hashtags here
+\#HealthcareHeroes
 {% endhint %}
 
 ## Supporting Visuals:
 
-_Fully-licensed images that can be used in content and memes._
+* _Please help by contributing inspiring images and memes._
 
 ## Additional Notes:
 
 * To be deployed in all global regions ASAP.
-* Need translators to communicate this message locally. 
-* _Any additional notes_
+* Please help by translating this message into your local language. 
+
+
 
