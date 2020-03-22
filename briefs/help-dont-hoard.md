@@ -26,6 +26,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 * Here's a thought: maybe instead of buying EVERY \[item\], you could buy just what you need, so there's some left for others? \#HelpDontHoard
 * Pretend you're on a plane: put on your own oxygen mask first, then put on masks for those around you. \#HelpDontHoard
 * Buy what you need, but leave some for everyone else. You're not going to starve. \#HelpDontHoard
+* If we resist the panic, we survive the pandemic. \#HelpDontHoard
 * Don't be a Prepper. Leave something for others. \#HelpDontHoard
 
 ## Link Here:

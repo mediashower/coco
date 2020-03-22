@@ -9,13 +9,13 @@ description: >-
 ## Primary Message:
 
 {% hint style="success" %}
-Primary message here
+We are literally one human organism. That's how the virus thinks. That's how we'll think, too. \#1planet1species
 {% endhint %}
 
 ## Why This is Important:
 
 {% hint style="warning" %}
-Primary reason here \[Source: \]
+Helping the public understand the virus does not see nations, races, or religions: a global problem requires a global solution. \[Source: \]
 {% endhint %}
 
 ## Message Points:
