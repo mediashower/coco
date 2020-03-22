@@ -1,5 +1,5 @@
 ---
-description: Information is the antivirus.
+description: Spread the word. Not the germ.
 ---
 
 # An Intro to CoCo
