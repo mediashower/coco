@@ -13,7 +13,6 @@
 * [Business As Usual](briefs/business-as-usual.md)
 * [Keep The Peace](briefs/keep-the-peace.md)
 * [Help, Don't Hoard](briefs/help-dont-hoard.md)
-* [Contribute, Then Consume](briefs/contribute-then-consume.md)
 * [One Planet, One Species](briefs/one-planet-one-species.md)
 * [Do a CoCo](briefs/do-a-coco.md)
 * [Spirit of Service](briefs/spirit-of-service.md)

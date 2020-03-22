@@ -33,7 +33,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 {% page-ref page="healthcare-heroes.md" %}
 
-## Use This Hashtag:
+## Use this Hashtag:
 
 {% hint style="success" %}
 \#HealthcareHeroes

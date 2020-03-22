@@ -28,7 +28,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 {% page-ref page="keep-the-peace.md" %}
 
-## Hashtag:
+## Use this Hashtag:
 
 {% hint style="success" %}
 Hashtags here
@@ -42,3 +42,4 @@ Hashtags here
 
 * To be deployed in all global regions ASAP.
 * Need translators to communicate this message locally. \[See [How to Help](../how-to-help.md)\]
+

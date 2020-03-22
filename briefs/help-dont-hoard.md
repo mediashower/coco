@@ -1,6 +1,6 @@
 ---
 description: >-
-  Take care of yourself, but also take care of others. Take what you need, and
+  Take care of yourself, but also take care of others. Buy what you need, but
   share the rest.
 ---
 
@@ -9,31 +9,33 @@ description: >-
 ## Primary Message:
 
 {% hint style="success" %}
-Primary message here
+HELP, DON'T HOARD: Take care of yourself, but also take care of others during the \#Coronacrisis.
 {% endhint %}
 
 ## Why This is Important:
 
 {% hint style="warning" %}
-Primary reason here \[Source: \]
+Helping the public understand that there will be more than enough to survive this pandemic, if we can resist this panic. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/pandemic-influenza-strategy-2005.pdf)\]
 {% endhint %}
 
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* Points
-* Points
-* Points
+* HELP, DON'T HOARD: Take care of yourself, but also take care of others during the \#Coronacrisis.
+* Here's a thought: maybe instead of buying EVERY \[item\], you could buy just what you need, so there's some left for others? \#HelpDontHoard
+* Pretend you're on a plane: put on your own oxygen mask first, then put on masks for those around you. \#HelpDontHoard
+* Buy what you need, but leave some for everyone else. You're not going to starve. \#HelpDontHoard
+* Don't be a Prepper. Leave something for others. \#HelpDontHoard
 
 ## Link Here:
 
-{% page-ref page="keep-the-peace.md" %}
+{% page-ref page="help-dont-hoard.md" %}
 
-## Hashtag:
+## Use this Hashtag:
 
 {% hint style="success" %}
-Hashtags here
+\#HelpDontHoard _\(Note: any pictures of empty store shelves can be tagged with this.\)_
 {% endhint %}
 
 ## Supporting Visuals:
@@ -44,3 +46,4 @@ Hashtags here
 
 * To be deployed in all global regions ASAP.
 * Need translators to communicate this message locally. \[See [How to Help](../how-to-help.md)\]
+

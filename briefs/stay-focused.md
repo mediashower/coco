@@ -38,7 +38,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 {% page-ref page="stay-focused.md" %}
 
-## Use These Hashtags:
+## Use this Hashtag:
 
 {% hint style="success" %}
 \#gsd, \#odat
