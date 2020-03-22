@@ -36,7 +36,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 ## Use this Hashtag:
 
 {% hint style="success" %}
-\#HelpDontHoard _\(Note: any pictures of empty store shelves can be tagged with this.\)_
+\#HelpDontHoard _\(Note: any pictures of empty store shelves can be tagged \#HelpDontHoard\)_
 {% endhint %}
 
 ## Supporting Visuals:
