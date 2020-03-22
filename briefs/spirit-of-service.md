@@ -38,7 +38,9 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ## Supporting Visuals:
 
-* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
+{% embed url="https://www.reddit.com/r/HumansBeingBros/comments/fmzgko/no\_need\_explain\_we\_got\_you/?utm\_source=share&utm\_medium=web2x" %}
+
+
 
 ## Additional Notes:
 

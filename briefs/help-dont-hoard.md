@@ -9,7 +9,7 @@ description: >-
 ## Primary Message:
 
 {% hint style="success" %}
-HELP, DON'T HOARD: Take care of yourself, but also take care of others during the \#Coronacrisis.
+HELP, DON'T HOARD: Take care of yourself, but also leave some for others during the \#Coronacrisis.
 {% endhint %}
 
 ## Why This is Important:
@@ -36,12 +36,16 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 ## Use this Hashtag:
 
 {% hint style="success" %}
-\#HelpDontHoard _\(Note: any pictures of empty store shelves can be tagged \#HelpDontHoard\)_
+\#HelpDontHoard _\(Note: any pictures of fully-stocked store shelves can be tagged \#HelpDontHoard\)_
 {% endhint %}
 
 ## Supporting Visuals:
 
-* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
+![](../.gitbook/assets/help-dont-hoard-shelves.png)
+
+![](../.gitbook/assets/help-dont-hoard-eggs.png)
+
+![](../.gitbook/assets/help-dont-hoard-clorox.png)
 
 ## Additional Notes:
 
