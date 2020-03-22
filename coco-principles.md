@@ -8,7 +8,7 @@ description: The basics of communicating about COVID-19.
 
 We are all in this together. The virus does not see national borders or skin color. It sees one human species. Our response must be coordinated globally, as one human species.
 
-At the same time, local conditions are different. Your country or community may be hard-hit, or hardly hit. Localize your message for the needs of your neighbors.
+At the same time, local conditions are different. Your country or community may be hard-hit, or hardly hit. Localize messages for the needs of your neighbors.
 
 ## Spirit of Solidarity.
 
@@ -18,9 +18,7 @@ The virus does not see rich or poor, black or white, children or adults. The vir
 
 ## Tell the Truth.
 
-There is such a thing as truth, and we will find it together.
-
-[Previous pandemics](https://www.who.int/publications-detail/outbreak-communication-best-practices-for-communicating-with-the-public-during-an-outbreak) show that when communication is clear, consistent, and transparent, it has a great calming effect on the public. When people don't know what's going on, they panic. 
+[Previous pandemics](https://www.who.int/publications-detail/outbreak-communication-best-practices-for-communicating-with-the-public-during-an-outbreak) show that when communication is clear, consistent, and transparent, it has a great calming effect on the public. When people don't know what's going on, they panic. Tell the truth.
 
 We must also be clear about what we simply don't know \(which at this point is a lot\). Humans are resilient; we can take bad news. Drown people in the truth. 
 
@@ -32,7 +30,7 @@ The great Paradox of Social Distancing is that it can actually bring us closer t
 
 ## Learn How to Learn.
 
-The COVID-19 crisis will require all of us to learn new skills, to solve problems in new ways, and to get outside our comfort zone.
+The Coronacrisis will require all of us to learn new skills, to solve problems in new ways, and to get outside our comfort zone.
 
 Make it a habit to pick up new skills -- even if just five minutes a day -- using online learning tools. They'll keep you sharp and useful -- and they'll add to your "skill stack," which will be helpful in the post-Corona world.
 
