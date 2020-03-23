@@ -24,7 +24,7 @@
 * [Learn How to Learn](briefs/learn-how-to-learn.md)
 * [Best Practices, Best Peeps](briefs/best-practices-best-peeps.md)
 * [Time to Experiment](briefs/time-to-experiment.md)
-* [Build, Don't Blame](briefs/build-dont-blame.md)
+* [Build, Not Blame](briefs/build-not-blame.md)
 * [MECCA](briefs/mecca.md)
 * [It's An Adventure](briefs/its-an-adventure.md)
 * [A "Human Hello"](briefs/a-human-hello.md)
