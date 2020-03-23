@@ -22,7 +22,7 @@
 * [Together Apart](briefs/apart-but-together.md)
 * [The New Normal](briefs/the-new-normal.md)
 * [Learn How to Learn](briefs/learn-how-to-learn.md)
-* [Best Practices, Best People](briefs/best-practices-best-people.md)
+* [Best Practices, Best Peeps](briefs/best-practices-best-peeps.md)
 * [Time to Experiment](briefs/time-to-experiment.md)
 * [Build, Don't Blame](briefs/build-dont-blame.md)
 * [MECCA](briefs/mecca.md)
