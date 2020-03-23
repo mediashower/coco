@@ -33,7 +33,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 ## Hashtag:
 
 {% hint style="success" %}
-\#TogetheApart
+\#TogetherApart
 {% endhint %}
 
 ## Supporting Visuals:

@@ -9,31 +9,33 @@ description: >-
 ## Primary Message:
 
 {% hint style="success" %}
-Primary message here
+The \#Coronacrisis requires that we all learn new skills, so become a \#LifelongLearner and LEARN HOW TO LEARN.
 {% endhint %}
 
 ## Why This is Important:
 
 {% hint style="warning" %}
-Primary reason here \[Source: \]
+Helping the public understand that this time requires constant learning of new skills, new attitudes, and new ways of working -- and _everyone_ can learn. \[Source: [World Health Organization](https://www.who.int/publications-detail/outbreak-communication-best-practices-for-communicating-with-the-public-during-an-outbreak)\]
 {% endhint %}
 
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* Points
-* Points
-* Points
+* \[Share any stories where you have personally learned something new in the last 24 hours. Model good behavior.\]
+* LEARN HOW TO LEARN. During the \#Coronacrisis, we all have to learn new skills, new attitudes, new ways of working. Become a \#LifelongLearner
+* LOVE TO LEARN: This time in history demands that we all learn something new. Spend 5 minutes every day learning something new.
+* LIFELONG LEARNERS: During this time, we must all rise to the occasion and do our part to learn something new. 5 minutes a day. \#Lifelonglearners
+* LEARN TO LEARN: You're not too old. You're not too poor. You're not too sick. You're not too uneducated. EVERYONE CAN LEARN SOMETHING NEW. \#Lifelonglearners
 
 ## Link Here:
 
-{% page-ref page="keep-the-peace.md" %}
+{% page-ref page="learn-how-to-learn.md" %}
 
 ## Hashtag:
 
 {% hint style="success" %}
-Hashtags here
+\#LifelongLearners
 {% endhint %}
 
 ## Supporting Visuals:
