@@ -23,10 +23,6 @@ description: >-
   * **Example:** __[_Spring 2020 Temporary Change to Academic and Grading Policies_](https://covid19.rpi.edu/announcements/spring-2020-temporary-change-academic-and-grading-policies)
   * **Example:** [Marriott's CEO Shared a Video With His Team and It's a Powerful Lesson in Leading During a Crisis](https://www.inc.com/jason-aten/marriotts-ceo-shared-a-video-with-his-team-its-a-powerful-lesson-in-leading-during-a-crisis.html)
 
-![Proactive communication will calm employee fears.](../.gitbook/assets/bigstock-coronavirus-planning-preparati-356036819.jpg)
-
-
-
 ## Communicating about Remote Work
 
 * **Practice remote leadership.**
@@ -90,10 +86,4 @@ description: >-
 * \_\_[_Interim Guidance for Business and Employers_](https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-business-response.html) __from the Centers for Disease Control and Prevention \(CDC\)
 * \_\_[_5 Ways to Calm Coronavirus Fears Among Your Employees_](https://www.uschamber.com/co/run/human-resources/keeping-employees-calm-during-coronavirus-pandemic) __from the U.S. Chamber of Commerce
 * \_\_[_Plan Ahead for Disasters_](https://www.ready.gov) Ready.gov
-
-\_\_
-
-
-
-
 
