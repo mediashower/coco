@@ -38,7 +38,9 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ## Supporting Visuals:
 
-* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
+{% embed url="https://twitter.com/Stan\_Subru/status/1239235514219233283?s=20" %}
+
+
 
 ## Additional Notes:
 
