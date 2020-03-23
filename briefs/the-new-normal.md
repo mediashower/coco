@@ -7,31 +7,33 @@ description: Things will never be the same again. Find your New Normal.
 ## Primary Message:
 
 {% hint style="success" %}
-Primary message here
+There's no going back to life before \#Coronavirus, but we can work together to find a \#NewNormal.
 {% endhint %}
 
 ## Why This is Important:
 
 {% hint style="warning" %}
-Primary reason here \[Source: \]
+Helping people understand that this pandemic will mean significant change, but that humans are resilient and can find a \#NewNormal. \[Source: [World Health Organization](https://www.who.int/publications-detail/outbreak-communication-best-practices-for-communicating-with-the-public-during-an-outbreak)\]
 {% endhint %}
 
 ## Message Points:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* Points
-* Points
-* Points
+* There's no going back to life before \#Coronavirus, but the \#NewNormal might just be better than the Old Normal.
+* Do your best to get into a new routine. Find a \#NewNormal.
+* \[Anything that shows how you are personally developing a new routine, developing new habits, or creating your own \#NewNormal.\]
+* \[Anything that shows how other people are developing a \#NewNormal: pictures, stories, anecdotes.\]
+* \[WARNING: Avoid complaining about something that annoys you, and tagging it \#NewNormal, unless that's really the way you want things to be.\]
 
 ## Link Here:
 
-{% page-ref page="keep-the-peace.md" %}
+{% page-ref page="the-new-normal.md" %}
 
-## Hashtag:
+## Use this Hashtag:
 
 {% hint style="success" %}
-Hashtags here
+\#NewNormal
 {% endhint %}
 
 ## Supporting Visuals:
