@@ -1,7 +1,6 @@
 # Table of contents
 
 * [An Intro to CoCo](README.md)
-* [CoCo Principles](coco-principles.md)
 * [How to Help](how-to-help.md)
 
 ## CoCo Briefs <a id="briefs"></a>
@@ -41,6 +40,7 @@
 
 ## CoCo Resources <a id="resources"></a>
 
+* [CoCo Principles](resources/coco-principles.md)
 * [CoCo Brief Template](resources/coco-brief-template.md)
 * [WHO](https://www.who.int/)
 * [CDC](https://www.cdc.gov/)

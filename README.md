@@ -15,11 +15,11 @@ We've created CoCo to empower **anyone with an audience** to spread helpful, tru
 {% hint style="success" %}
 ## **Start sharing now:**
 
-`By spreading helpful, truthful messages about #COVID19, we can #SlowTheSpread and speed the #GreatRecovery. This is how we band together as humans to defeat the #Coronavirus.`
+By spreading helpful, truthful messages about \#COVID19, we can \#SlowTheSpread and speed the \#GreatRecovery. This is how we band together as humans to defeat the \#Coronavirus.
 
-`We all have an audience, and we all have a voice. Your voice is stronger than you think. #coco`
+During the \#Coronacrisis, we can all do something to help. Help, don't hoard. Build, don't blame. Your voice is stronger than you think. \#coco
 
-`Do something kind today for someone else. Do a #CoCo`
+Do something kind today for someone else. Do a \#CoCo
 {% endhint %}
 
 Good communication is how we work together as humans. We’re one human species. And if we work together, we will win.
