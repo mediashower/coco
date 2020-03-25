@@ -6,6 +6,8 @@ description: >-
 
 # Best Practices for Healthcare
 
+{% embed url="https://youtu.be/yvmWKOOAC1A" %}
+
 ## Communicating about Health & Safety \(to Employees\)
 
 ![Photo by Ani Kolleshi on Unsplash](../.gitbook/assets/unsplash-nurse.jpg)

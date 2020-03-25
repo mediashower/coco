@@ -7,6 +7,10 @@ description: >-
 
 # Best Practices for Business
 
+{% embed url="https://youtu.be/KxQ3xLuXSzU" %}
+
+
+
 **Communicating about Health & Safety** 
 
 * **Encourage employees to stay home whenever possible during this crisis.**
