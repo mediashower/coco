@@ -2,6 +2,7 @@
 
 * [An Intro to CoCo](README.md)
 * [How to Help](how-to-help.md)
+* [Communication Cheat Sheet](communication-cheat-sheet.md)
 
 ## CoCo Briefs <a id="briefs"></a>
 
@@ -31,7 +32,6 @@
 
 ## CoCo Best Practices <a id="best-practices"></a>
 
-* [Communication Cheat Sheet](best-practices/communication-cheat-sheet.md)
 * [Best Practices for Business](best-practices/best-practices-for-business.md)
 * [Best Practices for Education](best-practices/best-practices-for-education.md)
 * [Best Practices for Healthcare](best-practices/best-practices-for-healthcare.md)
