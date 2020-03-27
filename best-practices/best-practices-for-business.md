@@ -2,10 +2,12 @@
 description: >-
   We all have a part to play in preventing the spread of COVID-19. Here's how
   some businesses communicate real-world information to the public, clients, and
-  employees.
+  employees!
 ---
 
 # Best Practices for Business
+
+
 
 {% embed url="https://youtu.be/KxQ3xLuXSzU" %}
 
