@@ -4,7 +4,7 @@ description: Spread the word. Not the germ.
 
 # An Intro to CoCo
 
-During the Coronacrisis, one thing we can all do is communicate well about Coronavirus**. When we share helpful, truthful information, we literally save lives.** That's why we created CoCo.
+During the Coronacrisis, one thing we can all do is communicate well about Coronavirus**. When we share helpful, truthful information, we literally save lives.** That's why we created CoCo!
 
 ![Coronavirus + Communication = CoCo](.gitbook/assets/coco-logo.png)
 
