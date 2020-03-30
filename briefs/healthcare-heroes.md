@@ -41,6 +41,8 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ## Supporting Visuals:
 
+![](../.gitbook/assets/humans-helping-humans-giron.jpg)
+
 {% embed url="https://www.reddit.com/r/HumansBeingBros/comments/fmph17/drshirin\_hourani\_is\_an\_iranian\_doctor\_who\_passed/?utm\_source=share&utm\_medium=web2x" %}
 
 ![](../.gitbook/assets/healthcare-heroes-gas.jpg)
