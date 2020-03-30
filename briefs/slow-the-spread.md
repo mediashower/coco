@@ -38,11 +38,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ## Supporting Visuals:
 
-{% embed url="https://pic.twitter.com/WvnKBwKUtb" %}
-
-![](../.gitbook/assets/do-the-five.PNG)
-
-
+![](../.gitbook/assets/slow-the-spread-piggy.png)
 
 ![](../.gitbook/assets/slow-the-spread-sloth%20%281%29.jpg)
 

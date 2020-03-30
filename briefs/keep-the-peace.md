@@ -41,7 +41,9 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ## Supporting Visuals:
 
-* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
+![](../.gitbook/assets/keep-the-peace-banner.png)
+
+![](../.gitbook/assets/keep-the-peace-gandhi.png)
 
 ## Additional Notes:
 
