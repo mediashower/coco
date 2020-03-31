@@ -38,6 +38,10 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ## Supporting Visuals:
 
+{% embed url="https://twitter.com/juan\_delcan/status/1239353536028139521?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1239353536028139521&ref\_url=https%3A%2F%2Fwww.today.com%2Fhealth%2Fviral-match-video-shows-how-social-distancing-can-save-lives-t176068" %}
+
+
+
 ![](../.gitbook/assets/slow-the-spread-piggy.png)
 
 ![](../.gitbook/assets/slow-the-spread-sloth%20%281%29.jpg)
