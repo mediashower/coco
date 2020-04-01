@@ -38,6 +38,8 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ## Supporting Visuals:
 
+![](../.gitbook/assets/humans20covid19.png)
+
 ![](../.gitbook/assets/humans-fight-pandemic.PNG)
 
 ![](../.gitbook/assets/humans-work-together.PNG)
