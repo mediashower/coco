@@ -10,6 +10,7 @@
 * [Humans vs. Virus](briefs/humans-vs-virus.md)
 * [Healthcare Heroes](briefs/healthcare-heroes.md)
 * [Help, Don't Hoard](briefs/help-dont-hoard.md)
+* [Flatten the Curve](briefs/flatten-the-curve.md)
 * [Keep The Peace](briefs/keep-the-peace.md)
 * [Stay Focused](briefs/stay-focused.md)
 * [Anxiety Into Action](briefs/anxiety-into-action.md)

@@ -43,6 +43,8 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ![](../.gitbook/assets/help-dont-hoard-shelves.png)
 
+![](../.gitbook/assets/1d0ebf8b197cc1cd8b7395dd7164d7eacb1add45ae69ab3ba8499403fc4bb6fb_1.jpg)
+
 ![](../.gitbook/assets/help-dont-hoard-eggs.png)
 
 ![](../.gitbook/assets/help-dont-hoard-clorox.png)
