@@ -38,6 +38,8 @@ Avoid complaining about something that annoys you and tagging it \#NewNormal, un
 
 ## Share these images:
 
+![](../.gitbook/assets/new-normal.png)
+
 {% embed url="https://twitter.com/Stan\_Subru/status/1239235514219233283?s=20" %}
 
 

@@ -6,12 +6,10 @@ description: >-
 
 # Learn How to Learn
 
-
-
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-The \#Coronacrisis requires that we all learn new skills, so become a \#LifelongLearner and LEARN HOW TO LEARN.
+The \#Coronacrisis requires that we all learn new skills, so become a \#LifelongLearner and LEARN HOW TO LEARN. \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -20,29 +18,25 @@ The \#Coronacrisis requires that we all learn new skills, so become a \#Lifelong
 Helping the public understand that this time requires constant learning of new skills, new attitudes, and new ways of working -- and _everyone_ can learn. \[Source: [World Health Organization](https://www.who.int/publications-detail/outbreak-communication-best-practices-for-communicating-with-the-public-during-an-outbreak)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* \[NAME\] here encouraging you to learn how to use new technology. This is a perfect time to \#LearnToLearn. The CoronaCrisis is the perfect time to become a Lifelong Learner. Now take this message and pass it on: spread the word, not the germ.
+* \[NAME\] here encouraging you to learn how to use new technology. The CoronaCrisis is the perfect time to become a Lifelong Learner. Now take this message and pass it on: spread the word, not the germ. \#LearnToLearn.
 
-* Hi, this is \[NAME\]. \[Share a story where you have personally learned something new in the last 24 hours. Model good behavior.\] Now take this message and pass it on: spread the word, not the germ. 
-* LEARN HOW TO LEARN. During the \#Coronacrisis, we all have to learn new skills, new attitudes, new ways of working. Become a \#LifelongLearner
-* LOVE TO LEARN: This time in history demands that we all learn something new. Spend 5 minutes every day learning something new.
-* LIFELONG LEARNERS: During this time, we must all rise to the occasion and do our part to learn something new. 5 minutes a day. \#Lifelonglearners
-* LEARN TO LEARN: You're not too old. You're not too poor. You're not too sick. You're not too uneducated. EVERYONE CAN LEARN SOMETHING NEW. \#Lifelonglearners
+* Hi, this is \[NAME\]. _\[Share a story where you have personally learned something new in the last 24 hours. Model good behavior.\]_ Learn how to learn! Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you to LEARN HOW TO LEARN. During the \#Coronacrisis, we all have to learn new skills, new attitudes, new ways of working. Become a \#LifelongLearner. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] here. LOVE TO LEARN: This time in history demands that we all learn something new. Spend 5 minutes every day learning something new. Now take this message and pass it on: spread the word, not the germ. 
+* Hey, this is \[NAME\] calling on all of you to be LIFELONG LEARNERS: During this time, we must all rise to the occasion and do our part to learn something new. 5 minutes a day. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you to LEARN TO LEARN: You're not too old. You're not too poor. You're not too sick. You're not too uneducated. EVERYONE CAN LEARN SOMETHING NEW. Be a lifelong learner. Now take this message and pass it on: spread the word, not the germ.
 
-## Link Here:
-
-{% page-ref page="learn-how-to-learn.md" %}
-
-## Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#LifelongLearners
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
