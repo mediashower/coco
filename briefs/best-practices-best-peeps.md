@@ -4,10 +4,10 @@ description: 'When we try new things, and share our best results, we become our 
 
 # Best Practices, Best Peeps
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-When we develop BEST PRACTICES, we develop BEST PEEPS: better systems make a better society.
+When we develop BEST PRACTICES, we develop BEST PEEPS: better systems make a better society. \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -18,27 +18,21 @@ _In one sentence, explain why this message matters to the CoCo strategy._
 Helping the public understand the importance of innovating quickly to solve problems, and freely sharing their best results. \[Source: [World Health Organization](https://www.who.int/publications-detail/outbreak-communication-best-practices-for-communicating-with-the-public-during-an-outbreak)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* BEST PRACTICES means trying a bunch of new stuff, finding what works, and sharing the solutions that work best. Best Practices Make \#BestPeeps
-* The \#Coronacrisis means we have to solve problems fast. If it works, share it with others. If it doesn't, throw it out and start again. Best solutions make \#BestPeeps
-* \[Share any pictures, stories, or anecdotes of solutions you've found to a particular problem -- ANYTHING. Tag it \#BestPeeps\]
-* \[Share any solutions that OTHERS have come up with to solve problems during this time.\]
-* \[Stay open further improvements on those solutions: we call this "iterating and improving."\]
+* This is \[NAME\]. BEST PRACTICES means trying a bunch of new stuff, finding what works, and sharing the solutions that work best. Best Practices Make \#BestPeeps. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] reminding you that we have to solve problems quickly during the \#CoronaCrisis. Try something new. If it works, share it with others. If it doesn't, throw it out and start again. Best solutions make \#BestPeeps. Spread the word, not the germ. 
+* \[NAME\] here. _\[Share any pictures, stories, or anecdotes of solutions you've found to a particular problem -- ANYTHING. Tag it \#BestPeeps\]._ Spread the word, not the germ!
 
-## Target URL:
-
-{% page-ref page="best-practices-best-peeps.md" %}
-
-## Use this Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#BestPeeps
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
