@@ -6,6 +6,8 @@ description: >-
 
 # Sunshine is a Disinfectant
 
+{% embed url="https://www.youtube.com/watch?v=2URl92Jyej0" caption="Coco: Sunshine is a Disinfectant" %}
+
 ## Primary Message:
 
 {% hint style="success" %}
