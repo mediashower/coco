@@ -8,10 +8,10 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=xDvK7tYoqrQ" caption="Coco: Help Don\'t Hoard" %}
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-HELP, DON'T HOARD: Take care of yourself, but also leave some for others during the \#Coronacrisis.
+HELP, DON'T HOARD: Take care of yourself, but also leave some for others during the \#Coronacrisis. Do a \#CoCo.
 {% endhint %}
 
 ## Why This is Important:
@@ -20,28 +20,24 @@ HELP, DON'T HOARD: Take care of yourself, but also leave some for others during 
 Helping the public understand that there will be more than enough to survive this pandemic, if we can resist this panic. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/pandemic-influenza-strategy-2005.pdf)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines._
 
-* HELP, DON'T HOARD: Take care of yourself, but also take care of others during the \#Coronacrisis.
-* Here's a thought: maybe instead of buying EVERY \[item\], you could buy just what you need, so there's some left for others? \#HelpDontHoard
-* Pretend you're on a plane: put on your own oxygen mask first, then put on masks for those around you. \#HelpDontHoard
-* Buy what you need, but leave some for everyone else. You're not going to starve. \#HelpDontHoard
-* If we resist the panic, we survive the pandemic. \#HelpDontHoard
-* Don't be a Prepper. Leave something for others. \#HelpDontHoard
+* Hi, this is \[NAME\]. HELP, DON'T HOARD: Take care of yourself, but also take care of others during the \#Coronacrisis. There will be enough, if we all work together. Now take this message and pass it on: spread the word, not the germ. 
+* Hey, it's \[NAME\]. Here's a thought: maybe instead of buying EVERY \[item -- toilet paper, bottle of bleach, can of Spam\], you could buy just what you need, so there's some left for others? HELP, DON'T HOARD. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you to buy what you need, but leave some for everyone else. You're not going to starve. Help, don't hoard. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] here. If we resist the PANIC, we survive the PANDEMIC. Help, don't hoard. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you: Don't be a Prepper. When we resist the panic, we survive the pandemic. HELP, DON'T HOARD. Now take this message and pass it on: spread the word, not the germ.
 
-## Link Here:
-
-{% page-ref page="help-dont-hoard.md" %}
-
-## Use this Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
-\#HelpDontHoard _\(Note: any pictures of fully-stocked store shelves can be tagged \#HelpDontHoard\)_
+\#HelpDontHoard   
+_\(Note: any pictures of fully-stocked store shelves can be tagged \#HelpDontHoard\)_
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 ![](../.gitbook/assets/help-dont-hoard-shelves.png)
 
