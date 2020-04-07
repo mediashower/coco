@@ -28,8 +28,7 @@
 * [Build, Not Blame](briefs/build-not-blame.md)
 * [MECCA](briefs/mecca.md)
 * [It's An Adventure](briefs/its-an-adventure.md)
-* [A "Human Hello"](briefs/a-human-hello.md)
-* ["Be Well"](briefs/be-well.md)
+* [The Great Recovery](briefs/the-great-recovery.md)
 
 ## CoCo Best Practices <a id="best-practices"></a>
 
