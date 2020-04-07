@@ -4,6 +4,10 @@ description: 'When we do our part to slow the spread, we literally save lives.'
 
 # Slow the Spread
 
+{% embed url="https://youtu.be/sbQaKUMzkVY" %}
+
+
+
 ## Primary Message:
 
 {% hint style="success" %}
