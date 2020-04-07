@@ -6,10 +6,10 @@ description: >-
 
 # Build, Not Blame
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-Resist the urge to blame people, politicians, or each other during the \#Coronacrisis: that's what the virus wants. \#BuildNotBlame
+Resist the urge to blame people, politicians, or each other during the \#Coronacrisis: that's what the virus wants. \#BuildNotBlame \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -18,27 +18,23 @@ Resist the urge to blame people, politicians, or each other during the \#Coronac
 Helping the public understand that infighting slows down effective response to a pandemic; only by working together will we win. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* BUILD NOT BLAME: Resist the urge to blame people, politicians, your co-workers, your family, or each other. We're all in the \#Coronacrisis together. \#BuildNotBlame
-* Instead of bitching, focus on building. \#BuildNotBlame
-* Let the historians decide who's to blame for the \#Coronacrisis. For your part, make sure you're on the right side of history. \#BuildNotBlame
-* Who's to blame for \#Coronavirus? WHO CARES?! \#BuildNotBlame
-* Here's a thought: instead of spreading BLAME for the \#Coronavirus, maybe we could spread JOY. \#BuildNotBlame
+* This is \[NAME\] reminding you to BUILD NOT BLAME: Resist the urge to blame people, politicians, your co-workers, your family, or each other. We're all in the \#Coronacrisis together. \#BuildNotBlame. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] here. Instead of BITCHING, focus on BUILDING. It's hard on all of us. What are YOU doing to help? \#BuildNotBlame. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\]. Let the historians decide who's to blame for the \#CoronaCrisis. For your part, make sure you're on the right side of history. \#BuildNotBlame. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] here. Who's to blame for \#Coronavirus? WHO CARES?! Here we are, so let's focus on what we can do to help. \#BuildNotBlame. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\]. Here's a thought: instead of spreading BLAME for the \#Coronavirus, maybe we could spread JOY. \#BuildNotBlame. Now take this message and pass it on: spread the word, not the germ.
 
-## Link Here:
-
-{% page-ref page="build-not-blame.md" %}
-
-## Use this Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#BuildNotBlame
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
