@@ -6,6 +6,8 @@ description: >-
 
 # Help, Don't Hoard
 
+{% embed url="https://www.youtube.com/watch?v=xDvK7tYoqrQ" caption="Coco: Help Don\'t Hoard" %}
+
 ## Primary Message:
 
 {% hint style="success" %}
