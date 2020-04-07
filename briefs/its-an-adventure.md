@@ -4,10 +4,10 @@ description: How can we describe this time in human history? "It's An Adventure.
 
 # It's An Adventure
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-We can choose to complain, or we can choose to look on this time as a great human adventure.  
+We can choose to complain, or we can choose to look on this time as a great human adventure. It's An Adventure! \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -16,19 +16,14 @@ We can choose to complain, or we can choose to look on this time as a great huma
 Helping the public reframe the \#Coronacrisis as an adventure with a beginning, a middle, and an end. \[Source: [The Power of Myth](https://www.amazon.com/dp/B004QZACH6)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* We can choose to bitch and moan, to argue and complain, or we can choose to see this time as a great adventure. \#ItsAnAdventure
-* Shmow-zow! This time in human history is certainly algebraic! \#AdventureTime
-* Thought for the day: every one of us will be able to tell our grandkids about this time in history. \#ItsAnAdventure
-* KEEP A DIARY. You will want to remember every day of this time in history: what it was like, how people interacted, how you spent your time. \#ItsAnAdventure
-* WE ARE LIVING IN HISTORY. This is something every kid in the future will have to learn about. YOU ARE LIVING IT. \#ItsAnAdventure
-
-## Link Here:
-
-{% page-ref page="its-an-adventure.md" %}
+* \[NAME\] here. We can choose to bitch and moan, to argue and complain, or we can choose to see this time as a great adventure. \#ItsAnAdventure! Now take this message and pass it on: spread the word, not the germ. 
+* Hi, this is \[NAME\]. Thought for the day: every one of us will be able to tell our grandkids about this time in history. \#ItsAnAdventure! Spread the word, not the germ. 
+* This is \[NAME\] reminding you to KEEP A DIARY. You will want to remember every day of this time in history: what it was like, how people interacted, how you spent your time. \#ItsAnAdventure. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] reminding you that WE ARE LIVING IN HISTORY. This is something every kid in the future will have to learn about. YOU ARE LIVING IT. \#ItsAnAdventure! Spread the word, not the germ!
 
 ## Use this Hashtag:
 
