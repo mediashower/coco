@@ -6,10 +6,10 @@ description: Humans being bros. Humans being chicas. Humans helping humans.
 
 {% embed url="https://www.youtube.com/watch?v=uRbwvgeF9Cc" caption="Shoot and share your own video \(instructions below\)." %}
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-When humans help humans, we get through the \#Coronavirus faster and easier.
+When humans help humans, we get through the \#Coronavirus faster and easier. Do a \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -18,27 +18,22 @@ When humans help humans, we get through the \#Coronavirus faster and easier.
 Helping the public understand that a global pandemic means we're all in this together: to make it through, everyone needs to lend a helping hand. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* HUMANS HELPING HUMANS: When we all work together, we get through the \#Coronacrisis as quickly as possible.
-* We're all in this together. The \#Coronacrisis means its time to set aside differences and help each other out. \#HumansHelpingHumans
-* \[Talk about anything you or someone else have done to help, no matter how small.\] \#HumansHelpingHumans
-* \[Encourage other people to share their recent examples of Humans Helping Humans; you'll be surprised at the response\]
-* \[Encourage other people to share creative ideas on how humans can help humans.\]
+* HUMANS HELPING HUMANS: When we all work together, we get through the \#Coronacrisis as quickly as possible. This is \[NAME\], your fellow human, reminding you to take this message and pass it on: spread the word, not the germ. 
+* Hi, this is \[NAME\] reminding you that we're all in this together. The \#Coronacrisis means it's time to set aside differences and help each other out. HUMANS HELPING HUMANS. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\]. _\[Talk about anything you or someone else have done to help, no matter how small.\]_ That's humans helping humans. Now take this message and pass it on to your fellow humans: spread the word, not the germ.
 
-## Link Here:
-
-{% page-ref page="humans-helping-humans.md" %}
-
-## Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
-\#humanshelpinghumans, \#humansbeingbros _\[Note: Any image with people helping each other can use these hashtags.\]_
+\#humanshelpinghumans, \#humansbeingbros   
+_\[Note: Any image with people helping each other can use these hashtags.\]_
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 ![](../.gitbook/assets/humans-helping-humans-sams.jpg)
 
