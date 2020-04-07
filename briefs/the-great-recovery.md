@@ -4,11 +4,10 @@ description: 'When we get through the sickness, it will be the greatest time to 
 
 # The Great Recovery
 
-
 ## Copy, paste, and post:
 
 {% hint style="success" %}
-When we get through the sickness, we will be even stronger. Get ready for the #GreatRecovery. \#coco
+When we get through sickness, we're even stronger. Get ready for the \#GreatRecovery. \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -21,27 +20,19 @@ Helping people understand that WE WILL GET THROUGH THIS. Because this is a globa
 
 _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* This is \[NAME\] reminding you that there's no going back to life before \#Coronavirus, but the \#NewNormal might just be better than the Old Normal. Now take this message and pass it on: spread the word, not the germ 
-* \[NAME\] here, reminding you to find a \#NewNormal. We're not going back to the old way, so do your best to get into a new routine. Now take this message and pass it on: spread the word, not the germ 
-* This is \[NAME\]. _\[Share anything that shows how you are personally developing a new routine, developing new habits, or creating your own \#NewNormal.\]_ Spread the word, not the germ.
-
-## PLEASE NOTE:
-
-Avoid complaining about something that annoys you and tagging it \#NewNormal, unless that's really the way you want things to be.
+* This is \[NAME\] reminding you to get ready for the \#GreatRecovery. I don't know if it will happen next week or next year, but it's coming. Get ready! Spread the word, not the germ: the \#GreatRecovery. 
+* \[NAME\] here, reminding you to look for the \#GreatRecovery. It's going to be a planetary boom. It's going to be the greatest time to be alive. It's going to be the \#GreatRecovery. Spread the word, not the germ: \#GreatRecovery. 
+* This is \[NAME\]. A global recession means eventually a global recovery. We call it the \#GreatRecovery. It's coming. I promise. Spread the word, not the germ. \#CoCo
 
 ## Use this hashtag:
 
 {% hint style="success" %}
-\#NewNormal
+\#GreatRecovery
 {% endhint %}
 
 ## Share these images:
 
-![](../.gitbook/assets/new-normal.png)
-
-{% embed url="https://twitter.com/Stan\_Subru/status/1239235514219233283?s=20" %}
-
-
+Please submit high-quality images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:
 
