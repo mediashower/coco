@@ -6,6 +6,8 @@ description: >-
 
 # Stay Focused
 
+{% embed url="https://www.youtube.com/watch?v=2abTqD36wMM" caption="Coco: Stay Focused" %}
+
 ## Primary Message:
 
 {% hint style="success" %}
