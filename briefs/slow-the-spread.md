@@ -4,7 +4,7 @@ description: 'When we do our part to slow the spread, we literally save lives.'
 
 # Slow the Spread
 
-{% embed url="https://youtu.be/sbQaKUMzkVY" %}
+{% embed url="https://youtu.be/sbQaKUMzkVY" caption="CoCo: Slow The Spread" %}
 
 
 
