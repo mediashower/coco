@@ -4,6 +4,8 @@ description: Social distancing but not socially distant.
 
 # Together Apart
 
+{% embed url="https://www.youtube.com/watch?v=FvNs-TmGpBA" caption="Coco: Together Apart" %}
+
 ## Primary Message:
 
 {% hint style="success" %}
