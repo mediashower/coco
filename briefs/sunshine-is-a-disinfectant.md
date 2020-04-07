@@ -8,10 +8,10 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=2URl92Jyej0" caption="Shoot and share your own video \(instructions below\)." %}
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-The flu virus withers in sunlight: practice social distancing and common sense, but GET OUTSIDE.
+The flu virus withers in sunlight: practice social distancing and common sense, but GET OUTSIDE. \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -22,27 +22,27 @@ Helping the public understand that fresh air is good for mental and physical sti
 _NOTE: This does NOT mean that sunshine kills Coronavirus! Please read the_ [_common misunderstandings on the WHO website_](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)_, and communicate responsibly._
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* Sunshine is a powerful disinfectant. Practice social distancing and exercise common sense, but GET OUTSIDE. 
-* The flu virus withers under sunlight. Practice social distancing and exercise common sense, but GET OUTSIDE.
-* A little exercise is good for the body, mind, and spirit. Practice social distancing and common sense, but GET OUTSIDE and GET SOME \#SUNSHINE.
-* Sunshine doesn't kill \#Coronavirus, but it certainly doesn't hurt. Practice social distancing and common sense, but GET SOME \#SUNSHINE.
-* Soak up some \#sunshine. It's refreshing. 
+* This is \[NAME\] reminding you that sunshine is a powerful disinfectant. Practice social distancing and exercise common sense, but GET OUTSIDE. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] here, reminding you that the flu virus withers under sunlight. Practice social distancing and exercise common sense, but GET OUTSIDE. Now take this message and pass it on: spread the word, not the germ. 
+* I'm \[NAME\]. A little exercise is good for the body, mind, and spirit. Practice social distancing and common sense, but GET OUTSIDE and GET SOME \#SUNSHINE. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you that sunshine doesn't kill \#Coronavirus, but it certainly doesn't hurt. Practice social distancing and common sense, but GET SOME \#SUNSHINE. 
+* Hi, this is \[NAME\]. Soak up some \#sunshine. It's refreshing. _\[Note: even better if you're actually outdoors.\]_
 
-## Link Here:
+## PLEASE NOTE:
 
 BE CAREFUL not to confuse "get some sunshine" with other messages. Check out \(and share\) [common misunderstandings on the World Health Organization website](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters).
 
-## Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#sunshine
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 ![](../.gitbook/assets/sunshine-feel-good.png)
 
