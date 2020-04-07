@@ -8,12 +8,12 @@ It's pretty simple. **Help us spread these messages, faster than the virus.**
 
 On the left, you'll find our "CoCo Briefs," packed with plenty of tweets, images, and memes. Share them across blogs, social media, video. Get creative. Surprise us. [SAVE FERRIS](https://www.google.com/search?q=save+ferris+bueller&source=lnms&tbm=isch).
 
-This is not a "feel-good" or charity project. This is important work, because it helps educate the public on how to think and act during a global pandemic. It's cute and funny, but _this is no joke_.
+This is not a "feel-good" or charity project. This is important work, because it educates the public on how to think and act during a global pandemic. It's cute and funny, but _this is no joke_.
 
 **Start by sharing a single message**. Your voice is stronger than you think.
 
 {% hint style="success" %}
-## Start sharing now:
+## Copy, paste, and post:
 
 _It's never too late to \#SlowTheSpread. It's never too late to see \#HumansHelpingHumans. When we work together, we win. \#coco_
 {% endhint %}

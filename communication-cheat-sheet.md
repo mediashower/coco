@@ -8,7 +8,7 @@ This isn't the first time humans have faced a pandemic.
 
 Fortunately, many smart people have spent many years putting together best practices on how to communicate to the public. We've pulled together their recommendations into these **quick tips** that you can share with your team. 
 
-Think of this as your **communication playbook**. We also have dedicated pages for those of you in [business](best-practices/best-practices-for-business.md), [education](best-practices/best-practices-for-education.md), [healthcare](best-practices/best-practices-for-healthcare.md), [government](best-practices/best-practices-for-government.md), and [faith-based organizations](best-practices/best-practices-for-churches.md).
+### Think of this as your **communication playbook**. 
 
 * **Be consistent**: During times of pandemic, messages work best when they are consistent and coherent. 
 * **Go public quickly**: Even if you have incomplete information. Adjust as things change. Be agile.
@@ -22,6 +22,8 @@ Think of this as your **communication playbook**. We also have dedicated pages f
 * **Speak to the fear**: Recognize that people will be frightened. Put these fears into words, then address them openly, regardless of how unfounded or unscientific the fears may seem.
 * **LISTEN:** Talk with your target audience. Talk with their key opinion leaders about what they're hearing in the community. Keep your ear to the ground and your finger on the pulse. 
 * **Keep talking**. Then communicate, again and again. Promise timely, regular   updates. Then deliver.
+
+We also have dedicated pages for those of you in [business](best-practices/best-practices-for-business.md), [education](best-practices/best-practices-for-education.md), [healthcare](best-practices/best-practices-for-healthcare.md), [government](best-practices/best-practices-for-government.md), and [faith-based organizations](best-practices/best-practices-for-churches.md).
 
 We highly recommend reading/skimming these three documents:
 
