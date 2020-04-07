@@ -22,33 +22,26 @@ Helping the public understand that a day-to-day \#ODAT approach can help us get 
 
 ## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._ 
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* As much as possible, keep a normal routine. \#BusinessAsUsual even though business unusual.
-* Get up at the same hour. Start and stop your work at the same hour. Make a \#NewNormal.
-* Make a daily \#ToDo list. Literally cross off items as you complete them: it feels good.
-* Keep yourself looking good. Shower. Shave. Practice self care. 
-* Keep your living space and your working space clean. At the end of each day, tidy up. Try it and see.
-* Defy the drama: resist the urge to worry, obsess, gossip, bitch, or complain. Channel that energy into positive action. 
-* Learn how to use new technology. This is a perfect time to \#LearnToLearn.
-* Keep regular meetings with family, friends, and coworkers by videoconference. Consider scheduling a time.
-* \#GSD.
-* Avoid The Great Timewasters of alcohol, drugs, and porn -- or keep them for weekends.
-* Donate 10% of your time to helping others.
+* Hi, this is \[NAME\]. As much as possible, try to keep a normal routine during this \#CoronaCrisis. STAY FOCUSED. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you to STAY FOCUSED. Get up at the same hour. Start and stop your work at the same hour. Make a \#NewNormal. Try to keep BusinessAsUsual even though business unusual. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] with a reminder to STAY FOCUSED! Make a daily \#ToDo list. Literally cross off items as you complete them: it feels good. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] reminding you to STAY FOCUSED during this time. Don't sit around in your sweatpants all day. Shower. Shave. Put  on a shirt. Practice self care. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you to STAY FOCUSED during this pandemic. Keep your living space and your working space clean. At the end of each day, tidy up. On weekends, do a deep clean. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] here encouraging you to DEFY THE DRAMA. Resist the urge to worry, obsess, gossip, bitch, or complain. STAY FOCUSED on getting through this. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] with a reminder to STAY FOCUSED. Keep a schedule. Do regular hangouts. Keep a routine. Make a \#NewNormal. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you to STAY FOCUSED. Avoid The Great Timewasters of alcohol, drugs, and porn -- or keep them for weekends. Now take this message and pass it on: spread the word, not the germ. 
 
-## Link Here:
-
-{% page-ref page="stay-focused.md" %}
-
-## Use this Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#gsd, \#odat
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
-![https://www.bigstockphoto.com/image-207258985/stock-photo-one-aged-woman-holds-mobile-phone-with-virtual-doctor-attentively-reviewing-her-brain-x-ray-results-patient-contacts-expert-via-cellphone-with-telemedicine-application](../.gitbook/assets/bigstock--207258985.jpg)
+![](../.gitbook/assets/bigstock--207258985.jpg)
 
 ## Additional Notes:
 

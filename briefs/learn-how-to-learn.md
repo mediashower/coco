@@ -24,7 +24,9 @@ Helping the public understand that this time requires constant learning of new s
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._
 
-* \[Share any stories where you have personally learned something new in the last 24 hours. Model good behavior.\]
+* \[NAME\] here encouraging you to learn how to use new technology. This is a perfect time to \#LearnToLearn. The CoronaCrisis is the perfect time to become a Lifelong Learner. Now take this message and pass it on: spread the word, not the germ.
+
+* Hi, this is \[NAME\]. \[Share a story where you have personally learned something new in the last 24 hours. Model good behavior.\] Now take this message and pass it on: spread the word, not the germ. 
 * LEARN HOW TO LEARN. During the \#Coronacrisis, we all have to learn new skills, new attitudes, new ways of working. Become a \#LifelongLearner
 * LOVE TO LEARN: This time in history demands that we all learn something new. Spend 5 minutes every day learning something new.
 * LIFELONG LEARNERS: During this time, we must all rise to the occasion and do our part to learn something new. 5 minutes a day. \#Lifelonglearners

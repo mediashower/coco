@@ -6,7 +6,7 @@ description: 'Try to keep things running normally, even when they''re not.'
 
 {% embed url="https://www.youtube.com/watch?v=jgKXGIt\_1Tw" caption="Shoot and share your own video \(instructions below\)." %}
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
 Do your best to keep \#BusinessAsUsual, though things are unusual.
