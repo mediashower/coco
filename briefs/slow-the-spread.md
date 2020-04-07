@@ -9,7 +9,7 @@ description: 'When we do our part to slow the spread, we literally save lives.'
 ## Copy, paste, and post:
 
 {% hint style="success" %}
-We are trying to SLOW THE SPREAD of \#Coronavirus, to ease the burden on our \#HealthcareHeroes.
+We are trying to SLOW THE SPREAD of \#Coronavirus, to ease the burden on our \#HealthcareHeroes. \#coco
 {% endhint %}
 
 ## Why This is Important:
