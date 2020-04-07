@@ -11,7 +11,7 @@ description: >-
 ## Primary Message:
 
 {% hint style="success" %}
-During the \#Coronacrisis, every day brings new drama and new distractions: just STAY FOCUSED on what you need to do today.
+During the \#Coronacrisis, every day brings new drama and new distractions: just STAY FOCUSED on what you need to do today. \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -20,7 +20,7 @@ During the \#Coronacrisis, every day brings new drama and new distractions: just
 Helping the public understand that a day-to-day \#ODAT approach can help us get this work done without feeling overwhelmed. \[Source: [Homeland Security Council](https://www.cdc.gov/flu/pandemic-resources/pdf/pandemic-influenza-strategy-2005.pdf)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
 _5-10 message points that can be used as "springboards" for blog posts and social media._ 
 
