@@ -6,10 +6,10 @@ description: >-
 
 # Time to Experiment
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-The \#Coronacrisis is the perfect TIME TO EXPERIMENT: what have you POSSIBLY got to lose?
+The \#Coronacrisis is the perfect TIME TO EXPERIMENT: what have you POSSIBLY got to lose? \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -18,27 +18,23 @@ The \#Coronacrisis is the perfect TIME TO EXPERIMENT: what have you POSSIBLY got
 Helping the public understand that times of great change are also times of great opportunity. \[Source: [World Health Organization](https://www.who.int/publications-detail/outbreak-communication-best-practices-for-communicating-with-the-public-during-an-outbreak)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* \[Any pictures, stories, or anecdotes of some problem you're trying to solve, or some new situation the \#Coronacrisis has pushed you into. Tag it \#TimeToExperiment\]
-* Try new things. Solve problems creatively. Mix it up. Think different. Have fun. TIME TO EXPERIMENT.
-* WHAT BETTER TIME TO EXPERIMENT? It's not like you're going to unleash a GLOBAL PANDEMIC!
-* If you were ever waiting for the time to make that leap in life, NOW IS THE TIME. \#TimeToExperiment
-* The great thing about the \#Coronacrisis is that it gives us this crazy freedom to experiment. WHO IS GOING TO NOTICE?! \#TimeToExperiment
+* Hey, this is \[NAME\] reminding you to try new things. Solve problems creatively. Mix it up. Think different. Have fun. TIME TO EXPERIMENT. Spread the word, not the germ! 
+* This is \[NAME\]. WHAT BETTER TIME TO EXPERIMENT? It's not like you're going to unleash a GLOBAL PANDEMIC! This can be a great time of trying new things. Time to experiment! Spread the word, not the germ. 
+* \[NAME\] here reminding you: if you were ever waiting for the time to make that leap in life, NOW IS THE TIME. It's time to experiment! Now pass it on: spread the word, not the germ. 
+* This is \[NAME\]. The great thing about the \#Coronacrisis is that it gives us this crazy freedom to experiment. WHO IS GOING TO NOTICE?! Try something new! Walk around naked! Time to experiment! Spread the word, not the germ. 
+* \[NAME\] here. _\[Share any pictures, stories, or anecdotes of some problem you're trying to solve, or some new situation the \#Coronacrisis has pushed you into.\]_ Time to experiment! Spread the word, not the germ.
 
-## Link Here:
-
-{% page-ref page="time-to-experiment.md" %}
-
-## Use this Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#TimeToExperiment
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
