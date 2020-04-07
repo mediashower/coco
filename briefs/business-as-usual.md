@@ -4,6 +4,8 @@ description: 'Try to keep things running normally, even when they''re not.'
 
 # Business As Usual
 
+{% embed url="https://www.youtube.com/watch?v=jgKXGIt\_1Tw" caption="Coco: Business As Usual" %}
+
 ## Primary Message:
 
 {% hint style="success" %}
