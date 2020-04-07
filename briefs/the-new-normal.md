@@ -4,6 +4,8 @@ description: Things will never be the same again. Find your New Normal.
 
 # The New Normal
 
+{% embed url="https://www.youtube.com/watch?v=Ne7Pp6vchTw" caption="Coco: The New Normal" %}
+
 ## Primary Message:
 
 {% hint style="success" %}
