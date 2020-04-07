@@ -4,6 +4,8 @@ description: Humans being bros. Humans being chicas. Humans helping humans.
 
 # Humans Helping Humans
 
+{% embed url="https://www.youtube.com/watch?v=uRbwvgeF9Cc" caption="Coco: Humans Helping Humans" %}
+
 ## Primary Message:
 
 {% hint style="success" %}
