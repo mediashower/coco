@@ -37,7 +37,7 @@ _\(Note: Any images showing humans helping humans can be tagged \#SOS\)_
 
 ## Supporting Visuals:
 
-{% embed url="https://www.reddit.com/r/HumansBeingBros/comments/fmzgko/no\_need\_explain\_we\_got\_you/?utm\_source=share&utm\_medium=web2x" %}
+![](../.gitbook/assets/spiritofservice.png)
 
 
 

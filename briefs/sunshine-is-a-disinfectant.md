@@ -44,6 +44,8 @@ BE CAREFUL not to confuse "get some sunshine" with other messages. Check out \(a
 
 ## Share these images:
 
+![](../.gitbook/assets/sunshinedisinfectant.png)
+
 ![](../.gitbook/assets/sunshine-feel-good.png)
 
 ![](../.gitbook/assets/sunshine-so-bright.png)

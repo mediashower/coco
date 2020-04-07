@@ -6,10 +6,10 @@ description: Social distancing but not socially distant.
 
 {% embed url="https://www.youtube.com/watch?v=FvNs-TmGpBA" caption="Shoot and share your own video \(instructions below\)." %}
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-The Paradox of Social Distancing is that we are closer than ever.
+The Paradox of Social Distancing is that we are closer than ever. \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -18,29 +18,24 @@ The Paradox of Social Distancing is that we are closer than ever.
 Helping the public understand that although we are physically separated, we are closer than ever in human spirit. \[Source: [World Health Organization](https://www.who.int/publications-detail/outbreak-communication-best-practices-for-communicating-with-the-public-during-an-outbreak)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* We are socially distanced but closer than ever. \#togetherapart
-* \[Talk about any way that you've reached out to someone else during the \#Coronacrisis\] \#togetherapart
-* \[Talk about any way that someone has reached out to you in some meaningful way.\] \#togetherapart
-* You have no idea how good it feels to make a real human connection. \#TogetherApart
-* \[Any jokes, ironic observations, or funny ha-has about how we are more connected than ever.\]
+* Hi, this is \[NAME\] reminding you that we are socially distancing but we're closer than ever. We are \#TogetherApart. Now take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] here. _\[Talk about any way that you've reached out to someone else during the \#Coronacrisis\]_ Remember that we are \#TogetherApart. Spread the word, not the germ. 
+* This is \[NAME\] and I want to share... _\[Talk about how someone has reached out to you in some meaningful way.\]_ Remember: we are \#TogetherApart. Spread the word, not the germ. 
+* \[NAME\] here. _\[Any jokes, ironic observations, or funny ha-has about how we are more connected than ever.\]_ The irony is we are \#TogetherApart. Spread the word, not the germ.
 
-## Link Here:
-
-{% page-ref page="apart-but-together.md" %}
-
-## Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#TogetherApart
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
-* Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
+![](../.gitbook/assets/together-apart.png)
 
 ## Additional Notes:
 
