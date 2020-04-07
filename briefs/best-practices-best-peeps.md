@@ -4,6 +4,8 @@ description: 'When we try new things, and share our best results, we become our 
 
 # Best Practices, Best Peeps
 
+{% embed url="https://youtu.be/PaQiAIRuUXA" caption="Shoot and share your own video \(instructions below\)." %}
+
 ## Copy, paste, and post:
 
 {% hint style="success" %}
