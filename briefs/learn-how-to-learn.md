@@ -6,6 +6,8 @@ description: >-
 
 # Learn How to Learn
 
+{% embed url="https://www.youtube.com/watch?v=AQxdMn8cY-8" caption="Learn How To Learn" %}
+
 ## Copy, paste, and post:
 
 {% hint style="success" %}
