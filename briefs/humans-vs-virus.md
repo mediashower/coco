@@ -4,7 +4,9 @@ description: 'There is only one enemy: Coronavirus. If we work together, we will
 
 # Humans vs. Virus
 
-## Primary Message:
+{% embed url="https://youtu.be/W4mmu45R83A" %}
+
+## Copy, paste, and post:
 
 {% hint style="success" %}
 There is only one enemy: \#Coronavirus. If we work together, we will win. \#humans20covid19 \#coco
@@ -16,27 +18,23 @@ There is only one enemy: \#Coronavirus. If we work together, we will win. \#huma
 Helping the public understand that arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* Great teams do great things. Humanity is one great team.
-* STAY FOCUSED: The enemy is \#COVID19, not each other.
-* \#Coronavirus wants humans to fight, so it can win. Don't give in.
-* To defeat \#Coronavirus, we have to think like a virus. That means working together, as one human species.
-* Stick together and save the world. If we work together, we will win. \#coco
+* Hi, I'm \[NAME\] reminding you that GREAT TEAMS DO GREAT THINGS. Humanity is one great team. When we work together, we win. And the final score is going to be HUMANS 20, COVID-19. Now take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you that \#Coronavirus wants humans to fight, so it can win. DON'T GIVE IN. When we work together, we win. Now take this message and pass it on: spread the word, not the germ. 
+* I'm \[NAME\] and here's what I believe: To defeat \#Coronavirus, we have to think like a virus. That means working together, as one human species. Now take this message and pass it on: spread the word, not the germ. 
+* Hey, this is \[NAME\] reminding you that if we stick together, we save the world. If we work together, we win in the fight against \#Coronavirus. Now take this message and pass it on: spread the word, not the germ!  
+* This is \[NAME\]. Arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. When we work together, we win. Now take this message and pass it on: spread the word, not the germ!
 
-## Link Here:
-
-{% page-ref page="humans-vs-virus.md" %}
-
-## Use this Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#humans20covid19
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 ![](../.gitbook/assets/humans20covid19.png)
 
@@ -45,10 +43,6 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 ![](../.gitbook/assets/humans-work-together.PNG)
 
 ![](../.gitbook/assets/humans-future-of-earth.PNG)
-
-{% hint style="success" %}
-Arguing and blaming each other wastes precious time and energy, which we must focus into the fight against the virus. 
-{% endhint %}
 
 ## Additional Notes:
 
