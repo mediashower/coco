@@ -18,27 +18,21 @@ Do your best to keep \#BusinessAsUsual, though things are unusual.
 Helping the public understand that keeping things flowing \(work, money, information\) is how we can all help speed the \#GreatRecovery. \[Source: [Homeland Security Council](https://www.cdc.gov/flu/pandemic-resources/pdf/pandemic-influenza-strategy-2005.pdf)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* \#BusinessAsUsual even though things are unusual: do your best to keep things moving forward.
-* Stay focused, stay positive. Do your best to keep \#BusinessAsUsual.
-* Things will never again be the same, but we can all do our best to keep \#BusinessAsUsual.
-* BUSINESS AS USUAL: During the \#Coronacrisis, do your best to keep things sane even when you feel things are insane.
-* BUSINESS AS USUAL: Avoid saying "Don't Panic" or "Stay Calm." Instead, BE reassuring and BE calm.
+* Hi, this is \[NAME\] reminding you to keep \#BusinessAsUsual even though things are unusual: do your best to keep things moving forward. Take this message and pass it on: spread the word, not the germ. 
+* Hi, this is \[NAME\]. Do your best to keep \#BusinessAsUsual even though business unusual. Do your best to keep things sane even when things are insane. Take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] here. BUSINESS AS USUAL: Avoid saying "Don't Panic" or "Stay Calm." Instead, BE reassuring and BE calm. Do your best to keep \#BusinessAsUsual. Take this message and pass it on: spread the word, not the germ.
 
-## Link Here:
-
-{% page-ref page="business-as-usual.md" %}
-
-## Use this Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#BusinessAsUsual
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 

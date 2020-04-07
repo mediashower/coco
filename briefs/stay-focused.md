@@ -8,7 +8,7 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?v=2abTqD36wMM" caption="Shoot and share your own video \(instructions below\)." %}
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
 During the \#Coronacrisis, every day brings new drama and new distractions: just STAY FOCUSED on what you need to do today. \#coco
