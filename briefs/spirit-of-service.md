@@ -4,6 +4,8 @@ description: 'When we do good, we do well. Approach each day with a Spirit of Se
 
 # Spirit of Service
 
+{% embed url="https://www.youtube.com/watch?v=xCsuAKk3I9Q" caption="Coco: Spirit of Service" %}
+
 ## Primary Message:
 
 {% hint style="success" %}
