@@ -4,6 +4,8 @@ description: 'When we get through the sickness, it will be the greatest time to 
 
 # The Great Recovery
 
+{% embed url="https://youtu.be/pfMtxgM7Cyk" caption="Shoot and share your own video \(instructions below\)." %}
+
 ## Copy, paste, and post:
 
 {% hint style="success" %}
