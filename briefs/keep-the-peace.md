@@ -6,12 +6,12 @@ description: >-
 
 # Keep The Peace
 
-{% embed url="https://www.youtube.com/watch?v=saiABorbC8c" caption="Coco: Keep The Peace" %}
+{% embed url="https://www.youtube.com/watch?v=saiABorbC8c" caption="Shoot and share your own video \(instructions below\)." %}
 
-## Primary Message:
+## Copy, paste, and post:
 
 {% hint style="success" %}
-During the \#Coronacrisis, do your part to \#KeepThePeace: with your family, with your neighbor, with the world.
+During the \#Coronacrisis, do your part to \#KeepThePeace: with your family, with your neighbor, with the world. \#coco
 {% endhint %}
 
 ## Why This is Important:
@@ -20,32 +20,33 @@ During the \#Coronacrisis, do your part to \#KeepThePeace: with your family, wit
 Helping the public understand that we are not at "war" with the Coronavirus: the enemy is COVID-19, not each other. \[Source: [Center for Disease Control](https://www.cdc.gov/flu/pandemic-resources/pdf/workshop.pdf)\]
 {% endhint %}
 
-## Message Points:
+## Shoot a video:
 
-_5-10 message points that can be used as "springboards" for blog posts and social media._
+_No fancy set. No hair and makeup. No need to memorize. Just turn the camera on yourself \(in landscape mode\) and read one of these lines:_
 
-* Fight \#Coronavirus, not each other. \#KeepThePeace
-* We are not at "war" with \#Coronavirus. You can't defeat germs with guns. Get a grip and \#KeepThePeace.
-* Calm the stress and \#KeepThePeace. Only by working together will we win.
-* You can't drop bombs on a virus. You have to think like one. Let's work together and \#KeepThePeace.
-* When we argue, we slow down the response and give \#COVID19 more time to spread. Work well and we win. \#KeepThePeace.
-* While Mommy and Daddy argue, the \#Coronavirus marches on. KEEP THE PEACE.
+* Hi, this is \[NAME\] reminding you to fight \#Coronavirus, not each other. KEEP THE PEACE. When we work together, we win. Take this message and pass it on: spread the word, not the germ. 
+* Hey, \[NAME\] here. We are not at "war" with \#Coronavirus. YOU CAN'T DEFEAT GERMS WITH GUNS. Get a grip and \#KeepThePeace. Take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\] reminding you to calm the stress and \#KeepThePeace. Only by working together will we win.  Take this message and pass it on: spread the word, not the germ. 
+* \[NAME\] reminding you that when we argue, we slow down the response and give \#COVID19 more time to spread. Work well and we win. \#KeepThePeace.  Take this message and pass it on: spread the word, not the germ. 
+* This is \[NAME\]. While Mommy and Daddy argue, the \#Coronavirus marches on. KEEP THE PEACE. Take this message and pass it on: spread the word, not the germ.
 
-## Link Here:
-
-{% page-ref page="keep-the-peace.md" %}
-
-## Hashtag:
+## Use this hashtag:
 
 {% hint style="success" %}
 \#KeepThePeace
 {% endhint %}
 
-## Supporting Visuals:
+## Share these images:
 
 ![](../.gitbook/assets/keep-the-peace-banner.png)
 
+![](../.gitbook/assets/keep-the-peace-mlk.png)
+
+![](../.gitbook/assets/keep-the-peace-teresa.png)
+
 ![](../.gitbook/assets/keep-the-peace-gandhi.png)
+
+![](../.gitbook/assets/keep-the-peace-lennon.png)
 
 ## Additional Notes:
 

@@ -6,7 +6,7 @@ description: >-
 
 # Stay Focused
 
-{% embed url="https://www.youtube.com/watch?v=2abTqD36wMM" caption="Coco: Stay Focused" %}
+{% embed url="https://www.youtube.com/watch?v=2abTqD36wMM" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Primary Message:
 

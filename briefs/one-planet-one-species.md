@@ -6,7 +6,7 @@ description: >-
 
 # One Planet, One Species
 
-{% embed url="https://www.youtube.com/watch?v=-oTt2m\_TzU8" caption="Coco: One Planet One Species" %}
+{% embed url="https://www.youtube.com/watch?v=-oTt2m\_TzU8" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Primary Message:
 

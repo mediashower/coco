@@ -6,7 +6,7 @@ description: >-
 
 # Healthcare Heroes
 
-{% embed url="https://www.youtube.com/watch?v=kR4GH2cKqtY" caption="Coco: Healthcare Heroes" %}
+{% embed url="https://www.youtube.com/watch?v=kR4GH2cKqtY" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Copy, paste, and post:
 

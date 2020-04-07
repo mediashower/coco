@@ -4,7 +4,7 @@ description: 'There is only one enemy: Coronavirus. If we work together, we will
 
 # Humans vs. Virus
 
-{% embed url="https://youtu.be/W4mmu45R83A" %}
+{% embed url="https://youtu.be/W4mmu45R83A" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Copy, paste, and post:
 

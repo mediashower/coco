@@ -4,7 +4,7 @@ description: Channel that free-floating fear into a positive force.
 
 # Anxiety Into Action
 
-{% embed url="https://www.youtube.com/watch?v=ArdodxnCwt8" caption="Coco: Anxiety Into Action" %}
+{% embed url="https://www.youtube.com/watch?v=ArdodxnCwt8" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Primary Message:
 

@@ -4,7 +4,7 @@ description: Small kindnesses. Everyday affection. Paying it forward.
 
 # Do a CoCo
 
-{% embed url="https://www.youtube.com/watch?v=ZP7eL5FsMUk" caption="Coco: Do A Coco" %}
+{% embed url="https://www.youtube.com/watch?v=ZP7eL5FsMUk" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Primary Message:
 

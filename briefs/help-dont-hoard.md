@@ -6,7 +6,7 @@ description: >-
 
 # Help, Don't Hoard
 
-{% embed url="https://www.youtube.com/watch?v=xDvK7tYoqrQ" caption="Coco: Help Don\'t Hoard" %}
+{% embed url="https://www.youtube.com/watch?v=xDvK7tYoqrQ" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Copy, paste, and post:
 
