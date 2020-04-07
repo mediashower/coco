@@ -31,7 +31,7 @@ When we argue, fight, bicker, and blame, the virus marches on. Only by working t
 {% hint style="warning" %}
 ## **How you can help \(right now\)**
 
-Each CoCo Brief \(at left\) has a primary message with talking points, tweets, and images to help these ideas spread. **Copy, paste, and post** into your blogs and social media feeds. Boost. Amplify. Forward to a friend. 
+Each CoCo Brief \(at left\) has a primary message with tweets, videos, and images to help these ideas spread. **Copy, paste, and post** into your social media feeds. **Shoot and share** a video. **Forward to a friend.** 
 
 **Your mission**: help these messages spread faster than the virus.
 {% endhint %}
