@@ -6,7 +6,7 @@ description: Spread the word. Not the germ.
 
 During the Coronacrisis, one thing we can all do is communicate well about Coronavirus**. When we share helpful, truthful information, we literally save lives.** That's why we created CoCo.
 
-![Coronavirus + Communication = CoCo](.gitbook/assets/coco-wide.png)
+![Coronavirus + Communication = CoCo.](.gitbook/assets/coco-wide.png)
 
 CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you’re free to use, remix, and share. They're cute and funny, but the mission is serious: _you're saving human lives._
 
