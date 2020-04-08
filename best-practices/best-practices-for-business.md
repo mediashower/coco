@@ -16,18 +16,18 @@ description: >-
 **Communicating about Health & Safety** 
 
 * **Encourage employees to stay home whenever possible during this crisis.**
-  * **Example:** [_Google Tells All North American Employees To Work From Home Due to Coronavirus_](https://www.forbes.com/sites/rachelsandler/2020/03/10/google-tells-more-than-100000-employees-to-work-from-home-due-to-coronavirus/#336ca69c2c1c)\*\*\*\*
-  * **Example:** [_Wells Fargo Implements Work From Home Policy Amid Coronavirus Outbreak_](https://www.reuters.com/article/us-health-coronavirus-wells-fargo/wells-fargo-implements-work-from-home-policy-amid-coronavirus-outbreak-idUSKBN2143AF)\*\*\*\*
-  * **Example:** [_University of Alabama \(UAB\) Implements Work From Home Amid Coronavirus Outbreak_](https://www.wkrg.com/health/coronavirus/uab-implements-work-from-home-amid-coronavirus-outbreak/)\_\_
+  * **Example:** This [tweet](https://twitter.com/sundarpichai/status/1237499299589582848?s=20) from Google CEO Sundar Pichai strikes the right tone.  
+
+![](../.gitbook/assets/google-screenshot%20%281%29.png)
+
 * **Communicate more, not less.** 
   * This is not the time for radio silence. 
   * Frequent communication will lessen anxiety. 
-  * **Example:** [_Employee Communications and the Coronavirus: What You Need To Know_](https://www.poppulo.com/blog/employee-communications-and-the-coronavirus-what-you-need-to-know/)\_\_
   * **Example:** [_Rensselaer Polytechnic Institute COVID-19 Latest Updates_](https://covid19.rpi.edu/communications)\_\_
 * **Be transparent but positive—even when the news is bad.**
-  * **Example:** [_ChicagoPolice Twitter feed_](https://twitter.com/AJGuglielmi/status/1241843627254398982?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241843627254398982&ref_url=https%3A%2F%2Fwww.cnn.com%2Fworld%2Flive-news%2Fcoronavirus-outbreak-03-22-20%2Findex.html)\_\_
-  * **Example:** __[_Spring 2020 Temporary Change to Academic and Grading Policies_](https://covid19.rpi.edu/announcements/spring-2020-temporary-change-academic-and-grading-policies)
-  * **Example:** [Marriott's CEO Shared a Video With His Team and It's a Powerful Lesson in Leading During a Crisis](https://www.inc.com/jason-aten/marriotts-ceo-shared-a-video-with-his-team-its-a-powerful-lesson-in-leading-during-a-crisis.html)
+  * **Example:** [_ChicagoPolice Twitter feed_](https://twitter.com/AJGuglielmi/status/1241843627254398982?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241843627254398982&ref_url=https%3A%2F%2Fwww.cnn.com%2Fworld%2Flive-news%2Fcoronavirus-outbreak-03-22-20%2Findex.html)\*\*\*\*
+
+![](../.gitbook/assets/chicago-pd-screenshot.png)
 
 ## Communicating about Remote Work
 
@@ -45,6 +45,9 @@ description: >-
   * **Example:** [_A Message from Kroger CEO Rodney McMullen_](https://youtu.be/LO9qqOHypXA)\_\_
   * **Example:** [_A Message from Canadian Blood Services CEO, Dr. Graham Sher_](https://twitter.com/CanadasLifeline/status/1240750756044685313?s=20)\_\_
   * **Example:** __[_A Message from CEO, FlorenceNFoundation_](https://twitter.com/FNightingaleF/status/1241664525725773824?s=20)\_\_
+  * **Example**:  ****[Marriott's CEO Video](https://twitter.com/MarriottIntl/status/1240639160148529160)  
+
+![](../.gitbook/assets/marriott-screenshot.png)
 
 ## Communicating to Customers
 
