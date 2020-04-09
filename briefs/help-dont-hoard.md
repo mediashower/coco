@@ -37,7 +37,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 _\(Note: any pictures of fully-stocked store shelves can be tagged \#HelpDontHoard\)_
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/help-dont-hoard-shelves.png)
 

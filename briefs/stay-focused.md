@@ -39,7 +39,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 \#gsd, \#odat
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/bigstock--207258985.jpg)
 

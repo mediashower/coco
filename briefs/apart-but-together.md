@@ -33,7 +33,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 \#TogetherApart
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/together-apart.png)
 

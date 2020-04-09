@@ -24,7 +24,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 * Hi, \[NAME\] here. A slower infection rate means that our Healthcare Heroes have more time to treat the sick. Do your part to \#FlattenTheCurve. Now take this message and pass it on: spread the word, not the germ. 
 * Hey, \[NAME\] reminding you that when you do your part, you help our Healthcare Heroes and our healthcare systems. We're not just doing it for ourselves, we're doing it for others: to help \#FlattenTheCurve. Now take this message and pass it on: spread the word, not the germ.
 
-## Share these images:
+## Share media:
 
 ![\(Image credit: Johannes Kalliauer/ CC BY-SA 4.0\)](../.gitbook/assets/kpry6iosupnfc6cxyevqag-650-80.jpg)
 

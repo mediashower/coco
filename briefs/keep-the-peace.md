@@ -36,7 +36,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 \#KeepThePeace
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/keep-the-peace-banner.png)
 

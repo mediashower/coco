@@ -31,7 +31,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 \#ItsAnAdventure, \#AdventureTime
 {% endhint %}
 
-## Supporting Visuals:
+## Share media:
 
 ![](../.gitbook/assets/its-an-adventure-history.jpg)
 

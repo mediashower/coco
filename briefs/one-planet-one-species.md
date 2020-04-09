@@ -37,7 +37,7 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 \#1planet1species
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/1planet-1species.png)
 

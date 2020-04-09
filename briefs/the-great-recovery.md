@@ -32,7 +32,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 \#GreatRecovery
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 Please submit high-quality images and memes. \[See [How to Help](../how-to-help.md)\]
 

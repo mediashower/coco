@@ -36,7 +36,7 @@ Avoid complaining about something that annoys you and tagging it \#NewNormal, un
 \#NewNormal
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/new-normal.png)
 

@@ -33,13 +33,17 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 _\[Note: Any image with people helping each other can use these hashtags.\]_
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/humans-helping-humans-sams.jpg)
+
+{% embed url="https://twitter.com/AmandaJ\_TX/status/1248028565230292992?s=20" %}
 
 ![](../.gitbook/assets/humans-helping-humans-truckers.png)
 
 ![](../.gitbook/assets/humans-helping-humans-cats.jpg)
+
+
 
 ## Additional Notes:
 

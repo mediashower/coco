@@ -34,7 +34,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 \#AnxAction
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/anxiety-into-action.png)
 

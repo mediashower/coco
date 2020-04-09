@@ -35,7 +35,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 _\(Note: any pictures of small kindnesses can be tagged with this.\)_
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 

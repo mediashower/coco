@@ -42,7 +42,7 @@ BE CAREFUL not to confuse "get some sunshine" with other messages. Check out \(a
 \#sunshine
 {% endhint %}
 
-## Share these images:
+## Share media:
 
 ![](../.gitbook/assets/sunshinedisinfectant.png)
 

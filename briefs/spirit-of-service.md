@@ -35,7 +35,7 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 _\(Note: Any images showing humans helping humans can be tagged \#SOS\)_
 {% endhint %}
 
-## Supporting Visuals:
+## Share media:
 
 ![](../.gitbook/assets/spiritofservice.png)
 
