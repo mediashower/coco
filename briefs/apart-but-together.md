@@ -37,6 +37,8 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ![](../.gitbook/assets/together-apart.png)
 
+![](../.gitbook/assets/evlnr76uwailuln.jpeg)
+
 ## Additional Notes:
 
 * To be deployed in all global regions ASAP.
