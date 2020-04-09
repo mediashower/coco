@@ -41,6 +41,10 @@ _5-10 message points that can be used as "springboards" for blog posts and socia
 
 ![](../.gitbook/assets/1planet-1species.png)
 
+{% embed url="https://twitter.com/RexChapman/status/1246898583296708609" %}
+
+
+
 ## Additional Notes:
 
 * To be deployed in all global regions ASAP.

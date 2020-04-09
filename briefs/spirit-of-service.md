@@ -39,6 +39,8 @@ _\(Note: Any images showing humans helping humans can be tagged \#SOS\)_
 
 ![](../.gitbook/assets/spiritofservice.png)
 
+{% embed url="https://twitter.com/evankirstel/status/1247000538442543110" %}
+
 
 
 ## Additional Notes:

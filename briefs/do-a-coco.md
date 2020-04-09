@@ -37,6 +37,10 @@ _\(Note: any pictures of small kindnesses can be tagged with this.\)_
 
 ## Share media:
 
+{% embed url="https://twitter.com/ABC7NY/status/1247625299879215105" %}
+
+
+
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:
