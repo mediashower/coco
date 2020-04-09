@@ -8,8 +8,6 @@ description: >-
 
 {% embed url="https://youtu.be/YZ7pU53Y7aI" %}
 
-
-
 ## Communicating about Health & Safety 
 
 * **Put health first:** Let worshipers know they can partake in meaningful prayer and receive spiritual guidance and community support even while practicing social distancing. \(Examples: [Ohr Kodesh Congregation](http://ohrkodesh.org/), [First Baptist Church,](https://www.mcclatchydc.com/news/coronavirus/article241279411.html) [ADAMS Center](https://www.washingtonpost.com/religion/2020/03/13/dilemma-facing-religious-leaders-when-close-doors-during-pandemic/).\)
@@ -36,5 +34,17 @@ description: >-
 
 ## Trusted Resources
 
-[Centers for Disease Control and Prevention: Get Your Community- and Faith-Based Organizations Ready for Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/community/organizations/guidance-community-faith-organizations.html), [Wheaton College \("Preparing Your Church for Coronavirus"\)](https://www.wheaton.edu/media/humanitarian-disaster-institute/Preparing-Your-Church-for-Coronavirus.pdf), [Bender JCC: COIVD-19 UPDATE](https://www.benderjccgw.org/covid-19/),  ["Is Your Church Ready for the Coronavirus?"](https://factsandtrends.net/2020/02/27/is-your-church-ready-for-the-coronavirus/) "[How the church can respond to the coronavirus](https://erlc.com/resource-library/articles/how-the-church-can-respond-to-the-coronavirus)," ["UPDATED – CORONAVIRUS \(COVID-19\) GUIDANCE FOR MOSQUES/MADRASAS AND UMRAH PILGRIMS,"](https://mcb.org.uk/mcb-updates/coronavirus-guidance-for-mosques-and-madrassas/) [The Jewish Exponent: "Jewish Coronavirus Updates: Rabbis Warn Against Passover Travel"](https://www.jewishexponent.com/2020/03/20/jewish-coronavirus-updates-rabbis-warn-against-passover-travel/) 
+[Centers for Disease Control and Prevention: Get Your Community- and Faith-Based Organizations Ready for Coronavirus Disease 2019](https://www.cdc.gov/coronavirus/2019-ncov/community/organizations/guidance-community-faith-organizations.html)
+
+[Wheaton College, Preparing Your Church for Coronavirus](https://www.wheaton.edu/media/humanitarian-disaster-institute/Preparing-Your-Church-for-Coronavirus.pdf)
+
+[Bender JCC: COIVD-19 UPDATE](https://www.benderjccgw.org/covid-19/)
+
+[Is Your Church Ready for the Coronavirus?](https://factsandtrends.net/2020/02/27/is-your-church-ready-for-the-coronavirus/)
+
+[How the church can respond to the coronavirus](https://erlc.com/resource-library/articles/how-the-church-can-respond-to-the-coronavirus)
+
+[UPDATED – CORONAVIRUS \(COVID-19\) GUIDANCE FOR MOSQUES/MADRASAS AND UMRAH PILGRIMS](https://mcb.org.uk/mcb-updates/coronavirus-guidance-for-mosques-and-madrassas/)
+
+[The Jewish Exponent: Jewish Coronavirus Updates: Rabbis Warn Against Passover Travel](https://www.jewishexponent.com/2020/03/20/jewish-coronavirus-updates-rabbis-warn-against-passover-travel/)
 

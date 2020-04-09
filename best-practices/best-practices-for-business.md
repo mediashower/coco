@@ -11,9 +11,7 @@ description: >-
 
 {% embed url="https://youtu.be/KxQ3xLuXSzU" %}
 
-
-
-**Communicating about Health & Safety** 
+## **Communicating about Health & Safety** 
 
 * **Encourage employees to stay home whenever possible.** Emphasize how doing so is good for humanity and good for business.
   * **Example:** This [tweet](https://twitter.com/sundarpichai/status/1237499299589582848?s=20) from Google CEO Sundar Pichai strikes the right tone.  

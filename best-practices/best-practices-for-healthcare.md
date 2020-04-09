@@ -10,8 +10,6 @@ description: >-
 
 ## Communicating about Health & Safety \(to Employees\)
 
-![Photo by Ani Kolleshi on Unsplash](../.gitbook/assets/unsplash-nurse.jpg)
-
 * **Get back to basics.** Promote rigorous attention to infection control basics.
 
   ·         Example: [Queen Mary Hospital in Hong Kong](https://www.eurekalert.org/pub_releases/2020-03/sfhe-hks030420.php)
@@ -25,8 +23,6 @@ description: >-
   ·         Example: [Centers for Disease Control and Prevention](https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/isolation-gowns.html)
 
 ## Communicating about Health & Safety \(to Patients\)
-
-![Photo by Kelly Sikkema on Unsplash](../.gitbook/assets/unsplash-hand-sanitizer.jpg)
 
 *  **Provide telemedicine options.** Encourage patients to use telemedicine for convenience and social distancing.
 
@@ -42,8 +38,6 @@ description: >-
 
 ## Communicating Operational Changes to Patients 
 
-![Photo by Benjamin Dada on Unsplash](../.gitbook/assets/google-hands-unsplash.jpg)
-
 * **Think GMB.** Update your Google My Business listing and your web pages if your operating hours or locations change.
 
   ·         Example: [Search Engine Land](https://searchengineland.com/update-your-online-presence-for-covid-19-330968)\*\*\*\*
@@ -58,8 +52,6 @@ description: >-
 
 ## Communicating about Disaster and Continuity Planning 
 
-![Photo by Jordan Hopkins on Unsplash](../.gitbook/assets/social-distancing-unsplash.jpg)
-
 * **Be clear.** Provide employees with clear steps they should follow to help ensure business continuity. Make these steps as unambiguous as possible to minimize chances of misinterpretation
 
   ·         Example: [LogicGate](https://www.logicgate.com/2020/03/09/business-continuity-plans-and-covid-19-a-primer/)\*\*\*\*
@@ -73,8 +65,6 @@ description: >-
   ·         Examples: [Facebook](https://m.facebook.com/help/235598533193464?helpref=related&source_cms_id=1376303972644600), Twitter
 
 ## Communicating about Helping Your Community 
-
-![Photo by Sam Wheeler on Unsplash](../.gitbook/assets/elderly-newspaper-man-unsplash.jpg)
 
 * **Know your POC**. Establish a point of contact between your healthcare system and local government to ensure coordination during quarantine periods.
 

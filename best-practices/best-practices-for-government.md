@@ -4,8 +4,6 @@ description: Real-world examples of governments communicating well about COVID-1
 
 # Best Practices for Government
 
-![Clear communication about how to stay safe and healthy is key to flattening the curve.](../.gitbook/assets/bigstock-washing-hands-rubbing-with-a-356836646.jpg)
-
 ## Communicating about Health & Safety 
 
 * **Accept and involve stakeholders**. Health and safety is a community effort and will require every citizen to contribute in some way. Engaging with all stakeholders increases the effort and value of the contribution.  **Example:** The Centers of Disease Control guidance page [Get Your Community- and Faith-Based Organizations Ready for Coronavirus Disease 2019](%20https://www.cdc.gov/coronavirus/2019-ncov/community/organizations/guidance-community-faith-organizations.html). Notice it is specifically designed for this community where needed while adhering to the key overall messaging.
@@ -21,8 +19,6 @@ description: Real-world examples of governments communicating well about COVID-1
 * **Offer resources to adapt quickly.** Telework is new to much of the workforce. Clear, easy-to-read materials will assist in the transition. **Example:** The [US General Services Administration’s guidance on remote work](https://www.gsa.gov/governmentwide-initiatives/telework/resources-for-managing-teleworkers)
 * **Address infrastructure concerns where possible.** Not everyone is equipped to work from home immediately, so collecting resources to get workers up to speed will be crucial. **Example:** The [City of Boston’s guide to internet access for remote workers](https://www.boston.gov/news/internet-connectivity-and-technology-supports-during-covid-19-response) across the city. 
 
-![Facilitate working at home for government employees where possible.](../.gitbook/assets/bigstock-young-woman-freelancer-in-glas-357116948.jpg)
-
 ## Communicating to Citizens
 
 * **Use graphics, video, and other modes of communication.** This spreads the message and sets the proper tone in multiple ways. **Example:** The [County of LA Twitter feed](https://twitter.com/CountyofLA), which uses appropriate images and motion graphics to draw the eye and summarize necessary information in multiple ways. 
@@ -35,8 +31,6 @@ description: Real-world examples of governments communicating well about COVID-1
 * **Deliver clear instructions.** Most organizations are facing unprecedented challenges and will need effective guidance that can followed easily and precisely. **Example:** The [City of Philadelphia’s detailed planning guidance for private businesses and non-profits](https://www.phila.gov/services/mental-physical-health/environmental-health-hazards/covid-19/planning-guidance-for-businesses-and-nonprofit-organizations/). 
 * **Emphasize planning ahead of time.** The more citizens are prepared, the more effective guidance and restrictions will be. **Example:** The [City of Chicago’s COVID-19 page ](https://www.chicago.gov/city/en/sites/covid-19/home.html)has a “Helpful Resources” section that emphasizes planning ahead.
 
-![Post reminders to help the community follow safe practices.](../.gitbook/assets/bigstock-covid-coronavirus-stay-hom-360060178.jpg)
-
 ## Communicating about Helping Your Community	
 
 * **Bust myths as they appear.** Misinformation can spread quickly if it’s not counteracted by authoritative statements. **Example:** [FEMA’s Rumor Control page](https://www.fema.gov/Coronavirus-Rumor-Control), which specifically refutes misinformation point by point. 
@@ -45,9 +39,9 @@ description: Real-world examples of governments communicating well about COVID-1
 
 ## Trusted Resources
 
-\*\*\*\*[**FEMA's Coronavirus Page**](https://www.fema.gov/coronavirus)\*\*\*\*
+\*\*\*\*[FEMA's Coronavirus Page](https://www.fema.gov/coronavirus)
 
-\*\*\*\*[**The CDC's Coronavirus Page**](%20https://www.cdc.gov/coronavirus/2019-ncov/index.html)\*\*\*\*
+[The CDC's Coronavirus Page](%20https://www.cdc.gov/coronavirus/2019-ncov/index.html)
 
-\*\*\*\*[**The World Health Organization's Coronavirus Page**](%20https://www.who.int/health-topics/coronavirus#tab=tab_1)\*\*\*\*
+[The World Health Organization's Coronavirus Page](%20https://www.who.int/health-topics/coronavirus#tab=tab_1)
 
