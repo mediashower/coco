@@ -42,8 +42,6 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 {% embed url="https://twitter.com/hvgoenka/status/1247573669833932801" %}
 
-
-
 {% embed url="https://www.reddit.com/r/HumansBeingBros/comments/fmph17/drshirin\_hourani\_is\_an\_iranian\_doctor\_who\_passed/?utm\_source=share&utm\_medium=web2x" %}
 
 ![](../.gitbook/assets/healthcare-heroes-gas.jpg)
