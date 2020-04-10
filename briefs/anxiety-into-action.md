@@ -38,6 +38,10 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ![](../.gitbook/assets/anxiety-into-action.png)
 
+{% embed url="https://twitter.com/KayCeeStroh/status/1244003730254483456?s=20" %}
+
+
+
 ## Additional Notes:
 
 * To be deployed in all global regions ASAP.

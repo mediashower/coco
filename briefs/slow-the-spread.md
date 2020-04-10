@@ -35,9 +35,11 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media
 
+{% embed url="https://twitter.com/OHdeptofhealth/status/1248249304600449024?s=20" %}
+
 {% embed url="https://twitter.com/juan\_delcan/status/1239353536028139521?ref\_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1239353536028139521&ref\_url=https%3A%2F%2Fwww.today.com%2Fhealth%2Fviral-match-video-shows-how-social-distancing-can-save-lives-t176068" %}
 
-
+{% embed url="https://twitter.com/NFL\_Memes/status/1246609476767055877?s=20" %}
 
 ![](../.gitbook/assets/slow-the-spread-piggy.png)
 

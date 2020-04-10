@@ -40,6 +40,14 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+{% embed url="https://twitter.com/common/status/1247979838033592325?s=20" %}
+
+{% embed url="https://twitter.com/MomentsWithBren/status/1166164072171233283?s=20" %}
+
+{% embed url="https://twitter.com/UNICEF/status/1248162482520117248?s=20" %}
+
+{% embed url="https://twitter.com/paul\_haine/status/878871878080897024?s=20" %}
+
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:

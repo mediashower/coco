@@ -28,6 +28,8 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ![\(Image credit: Johannes Kalliauer/ CC BY-SA 4.0\)](../.gitbook/assets/kpry6iosupnfc6cxyevqag-650-80.jpg)
 
+{% embed url="https://twitter.com/rexthetvterrier/status/1246215607609155585?s=20" %}
+
 ![](../.gitbook/assets/cc01c3a02974edefb68101fec186a312b6ea21d3a7d6760989907435ba504cc1_1.jpg)
 
 ## Additional notes:

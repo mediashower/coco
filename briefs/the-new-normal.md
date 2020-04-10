@@ -40,6 +40,10 @@ Avoid complaining about something that annoys you and tagging it \#NewNormal, un
 
 ![](../.gitbook/assets/new-normal.png)
 
+{% embed url="https://twitter.com/TIME/status/1248204528933122050?s=20" %}
+
+{% embed url="https://twitter.com/Maire\_from\_NJ/status/1246777355684675585?s=20" %}
+
 {% embed url="https://twitter.com/Stan\_Subru/status/1239235514219233283?s=20" %}
 
 

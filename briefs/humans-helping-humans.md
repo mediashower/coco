@@ -41,6 +41,8 @@ _\[Note: Any image with people helping each other can use these hashtags.\]_
 
 ![](../.gitbook/assets/humans-helping-humans-truckers.png)
 
+{% embed url="https://twitter.com/mghfc/status/1244610151413362688?s=20" %}
+
 ![](../.gitbook/assets/humans-helping-humans-cats.jpg)
 
 

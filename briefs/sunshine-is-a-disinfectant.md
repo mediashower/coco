@@ -46,9 +46,15 @@ BE CAREFUL not to confuse "get some sunshine" with other messages. Check out \(a
 
 ![](../.gitbook/assets/sunshinedisinfectant.png)
 
+{% embed url="https://twitter.com/bfraser747/status/1248347871377633282?s=20" %}
+
 ![](../.gitbook/assets/sunshine-feel-good.png)
 
+{% embed url="https://twitter.com/NickGroff\_/status/1247198102454403074?s=20" %}
+
 ![](../.gitbook/assets/sunshine-so-bright.png)
+
+{% embed url="https://twitter.com/Camping123456/status/1247084286399991808?s=20" %}
 
 ![](../.gitbook/assets/sunshine-feel-warm.png)
 
