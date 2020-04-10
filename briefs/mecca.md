@@ -35,6 +35,18 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+{% embed url="https://www.instagram.com/p/B-yKR6cHhZ1/?utm\_source=ig\_web\_button\_share\_sheet" %}
+
+{% embed url="https://twitter.com/TheSportsman/status/1248159294673092608?s=20" %}
+
+{% embed url="https://twitter.com/TKDano/status/1247913789506195458?s=20" %}
+
+{% embed url="https://www.instagram.com/p/B-uzHSPFF6N/?utm\_source=ig\_web\_button\_share\_sheet" %}
+
+{% embed url="https://twitter.com/nywolforg/status/1246814854415093762?s=20" %}
+
+{% embed url="https://twitter.com/asolegrey/status/1246370466710704128?s=20" %}
+
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:

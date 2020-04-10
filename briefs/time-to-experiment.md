@@ -36,6 +36,14 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+{% embed url="https://twitter.com/vmaderna/status/1247862382656983046?s=20" %}
+
+{% embed url="https://www.instagram.com/p/B-n\_hL3FFQx/?utm\_source=ig\_web\_button\_share\_sheet" %}
+
+{% embed url="https://twitter.com/ninivutu/status/1245594470290079745?s=20" %}
+
+
+
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:

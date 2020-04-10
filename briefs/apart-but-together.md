@@ -39,6 +39,8 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 {% embed url="https://twitter.com/Reuters/status/1247130683778240512?s=20" %}
 
+{% embed url="https://twitter.com/stan\_sdcollins/status/1246417185960067072?s=20" %}
+
 ![](../.gitbook/assets/evlnr76uwailuln.jpeg)
 
 {% embed url="https://twitter.com/GurdeepPandher/status/1246894669155282944?s=20" %}

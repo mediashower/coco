@@ -35,9 +35,15 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ![](../.gitbook/assets/its-an-adventure-history.jpg)
 
+{% embed url="https://twitter.com/ABC/status/1247153397331120128?s=20" %}
+
 ![](../.gitbook/assets/its-an-adventure-beans.jpg)
 
 ![](../.gitbook/assets/its-an-adventure-takeout.jpg)
+
+{% embed url="https://twitter.com/atlantahumane/status/1247204441180246020?s=20" %}
+
+{% embed url="https://twitter.com/Pixar/status/1246529947125952512?s=20" %}
 
 ![](../.gitbook/assets/its-an-adventure-sex.jpg)
 

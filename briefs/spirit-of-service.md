@@ -41,11 +41,7 @@ _\(Note: Any images showing humans helping humans can be tagged \#SOS\)_
 
 {% embed url="https://twitter.com/evankirstel/status/1247000538442543110" %}
 
-{% embed url="https://www.reddit.com/r/interestingasfuck/comments/fvnp1m/when\_it\_is\_recommended\_we\_all\_wear\_a\_mask\_this/?utm\_medium=android\_app&utm\_source=share" %}
-
-
-
-
+{% embed url="https://www.reddit.com/r/HumansBeingBros/comments/fx32yf/he\_is\_an\_absolute\_legend/?utm\_source=share&utm\_medium=web2x" %}
 
 ## Additional Notes:
 
