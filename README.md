@@ -10,8 +10,6 @@ During the Coronacrisis, one thing we can all do is communicate well about Coron
 
 CoCo is a **messaging toolkit** with ready-made tweets, images, and even memes that you’re free to use, remix, and share. They're cute and funny, but the mission is serious: _you're saving human lives._
 
-{% embed url="https://www.datawrapper.de/\_/kRLe6/" %}
-
 We've created CoCo to empower **anyone with an audience** to spread helpful, truthful information -- through blogs, videos, and social media. You can start sharing right now.
 
 {% hint style="success" %}
