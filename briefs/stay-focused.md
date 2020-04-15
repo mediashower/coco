@@ -6,7 +6,7 @@ description: >-
 
 # Stay Focused
 
-{% embed url="https://www.youtube.com/watch?v=2abTqD36wMM" caption="Shoot and share your own video \(instructions below\)." %}
+{% embed url="https://youtu.be/jka5Vpfn61Q" %}
 
 ## Copy, paste, and post:
 
