@@ -36,6 +36,8 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+![](../.gitbook/assets/timetoexperiment.png)
+
 {% embed url="https://twitter.com/vmaderna/status/1247862382656983046?s=20" %}
 
 {% embed url="https://www.instagram.com/p/B-n\_hL3FFQx/?utm\_source=ig\_web\_button\_share\_sheet" %}

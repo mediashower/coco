@@ -36,6 +36,8 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+![](../.gitbook/assets/bestpracticesbestpeeps.png)
+
 {% embed url="https://twitter.com/lalislutmanoban/status/1247068696788357121?s=20" %}
 
 {% embed url="https://twitter.com/ABC/status/1247902854603362304?s=20" %}

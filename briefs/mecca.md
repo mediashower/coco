@@ -35,6 +35,8 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+![](../.gitbook/assets/mecca.png)
+
 {% embed url="https://www.instagram.com/p/B-yKR6cHhZ1/?utm\_source=ig\_web\_button\_share\_sheet" %}
 
 {% embed url="https://twitter.com/TheSportsman/status/1248159294673092608?s=20" %}

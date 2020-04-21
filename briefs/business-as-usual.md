@@ -34,6 +34,8 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+![](../.gitbook/assets/business_as_usual.png)
+
 * Please help by contributing inspiring images and memes. \[See [How to Help](../how-to-help.md)\]
 
 ## Additional Notes:

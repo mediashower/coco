@@ -36,6 +36,10 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+![](../.gitbook/assets/build_not_blame%20%281%29.png)
+
+![](../.gitbook/assets/buildnotblame.png)
+
 {% embed url="https://www.instagram.com/p/B-uCkynHY91/?utm\_source=ig\_web\_button\_share\_sheet" %}
 
 {% embed url="https://twitter.com/Paula\_White/status/1245829093985148928?s=20" %}

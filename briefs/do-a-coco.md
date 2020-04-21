@@ -37,6 +37,8 @@ _\(Note: any pictures of small kindnesses can be tagged with this.\)_
 
 ## Share media:
 
+![](../.gitbook/assets/do_a_coco_2.png)
+
 {% embed url="https://twitter.com/ABC7NY/status/1247625299879215105" %}
 
 

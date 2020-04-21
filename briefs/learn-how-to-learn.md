@@ -40,6 +40,8 @@ _No fancy set. No hair and makeup. No need to memorize. Just turn the camera on 
 
 ## Share media:
 
+![](../.gitbook/assets/learnhowtolearn.png)
+
 {% embed url="https://twitter.com/common/status/1247979838033592325?s=20" %}
 
 
