@@ -6,7 +6,7 @@ description: >-
 
 # Learn How to Learn
 
-{% embed url="https://www.youtube.com/watch?v=AQxdMn8cY-8" caption="Shoot and share your own video \(instructions below\)." %}
+{% embed url="https://youtu.be/QNv1X1bQTu4" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Copy, paste, and post:
 

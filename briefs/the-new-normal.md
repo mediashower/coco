@@ -4,7 +4,7 @@ description: Things will never be the same again. Find your New Normal.
 
 # The New Normal
 
-{% embed url="https://www.youtube.com/watch?v=Ne7Pp6vchTw" caption="Shoot and share your own video \(instructions below\)." %}
+{% embed url="https://youtu.be/QIuiJBdT-1A" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Copy, paste, and post:
 

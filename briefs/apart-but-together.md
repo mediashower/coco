@@ -4,7 +4,7 @@ description: Social distancing but not socially distant.
 
 # Together Apart
 
-{% embed url="https://www.youtube.com/watch?v=FvNs-TmGpBA" caption="Shoot and share your own video \(instructions below\)." %}
+{% embed url="https://youtu.be/3qPMt2BwcjY" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Copy, paste, and post:
 

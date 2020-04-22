@@ -4,7 +4,7 @@ description: 'Try to keep things running normally, even when they''re not.'
 
 # Business As Usual
 
-{% embed url="https://www.youtube.com/watch?v=jgKXGIt\_1Tw" caption="Shoot and share your own video \(instructions below\)." %}
+{% embed url="https://youtu.be/\_waDUo\_e\_F4" caption="Shoot and share your own video \(instructions below\)." %}
 
 ## Copy, paste, and post:
 
