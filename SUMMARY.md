@@ -18,7 +18,6 @@
 * [One Planet, One Species](briefs/one-planet-one-species.md)
 * [Do a CoCo](briefs/do-a-coco.md)
 * [Spirit of Service](briefs/spirit-of-service.md)
-* [Sunshine is a Disinfectant](briefs/sunshine-is-a-disinfectant.md)
 * [Humans Helping Humans](briefs/humans-helping-humans.md)
 * [Together Apart](briefs/apart-but-together.md)
 * [The New Normal](briefs/the-new-normal.md)
