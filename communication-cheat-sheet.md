@@ -23,7 +23,7 @@ Fortunately, many smart people have spent many years putting together best pract
 * **LISTEN:** Talk with your target audience. Talk with their key opinion leaders about what they're hearing in the community. Keep your ear to the ground and your finger on the pulse. 
 * **Keep talking**. Then communicate, again and again. Promise timely, regular   updates. Then deliver.
 
-We also have dedicated pages for those of you in [business](best-practices/best-practices-for-business.md), [education](best-practices/best-practices-for-education.md), [healthcare](best-practices/best-practices-for-healthcare.md), [government](best-practices/best-practices-for-government.md), and [faith-based organizations](best-practices/best-practices-for-churches.md).
+We also have dedicated pages for those of you in [business](), [education](), [healthcare](), [government](), and [faith-based organizations]().
 
 We highly recommend reading/skimming these three documents:
 

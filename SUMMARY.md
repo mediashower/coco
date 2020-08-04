@@ -29,14 +29,6 @@
 * [It's An Adventure](briefs/its-an-adventure.md)
 * [The Great Recovery](briefs/the-great-recovery.md)
 
-## CoCo Best Practices <a id="best-practices"></a>
-
-* [Best Practices for Business](best-practices/best-practices-for-business.md)
-* [Best Practices for Education](best-practices/best-practices-for-education.md)
-* [Best Practices for Healthcare](best-practices/best-practices-for-healthcare.md)
-* [Best Practices for Government](best-practices/best-practices-for-government.md)
-* [Best Practices for Churches](best-practices/best-practices-for-churches.md)
-
 ## CoCo Resources <a id="resources"></a>
 
 * [CoCo Principles](resources/coco-principles.md)
